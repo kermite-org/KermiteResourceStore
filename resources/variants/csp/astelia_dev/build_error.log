@@ -1,0 +1,8 @@
+>make csp/astelia_dev:build
+compiling src/projects/csp/astelia_dev/main.c
+src/projects/csp/astelia_dev/main.c: In function 'main':
+src/projects/csp/astelia_dev/main.c:252:3: error: expected declaration or statement at end of input
+  252 |   return 0;
+      |   ^~~~~~
+make[1]: *** [build/obj/src/projects/csp/astelia_dev/main.o] Error 1
+make: *** [csp/astelia_dev:build] Error 2
