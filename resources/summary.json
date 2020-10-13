@@ -1,9 +1,24 @@
 {
-  "variants/proto/minivers/minivers.hex": "2cd35ea73e4bb1e85b8a880a5a846905",
-  "variants/proto/minivers/layout.json": "f520e23b6874986f3f7550a5bdeacc27",
-  "variants/proto/minivers/profiles/minivers_test1.json": "a7b9c80b2a7bc5429ba57188722ade94",
-  "variants/csp/astelia_dev/layout.json": "176f00e13f346f0bd440984a5041ad89",
-  "variants/csp/astelia_dev/build_error.log": "ee8007f920f4eb35e938bedb5e7678e6",
-  "variants/astelia/astelia.hex": "b13fe2d3629ac845096e8a419ad06a27",
-  "variants/astelia/layout.json": "176f00e13f346f0bd440984a5041ad89"
+  "info": {
+    "buildStats": {
+      "success": 3,
+      "total": 3
+    },
+    "environment": {
+      "OS": "Mac OS X 10.15.7",
+      "avr-gcc": "Homebrew AVR GCC 9.3.0",
+      "make": "GNU Make 3.81"
+    },
+    "executedAt": "2020-10-14 03:05:59 +0900",
+    "filesRevision": 0
+  },
+  "files": {
+    "variants/proto/minivers/minivers.hex": "2cd35ea73e4bb1e85b8a880a5a846905",
+    "variants/proto/minivers/layout.json": "f520e23b6874986f3f7550a5bdeacc27",
+    "variants/proto/minivers/profiles/minivers_test1.json": "a7b9c80b2a7bc5429ba57188722ade94",
+    "variants/csp/astelia_dev/layout.json": "176f00e13f346f0bd440984a5041ad89",
+    "variants/csp/astelia_dev/astelia_dev.hex": "b13fe2d3629ac845096e8a419ad06a27",
+    "variants/astelia/astelia.hex": "b13fe2d3629ac845096e8a419ad06a27",
+    "variants/astelia/layout.json": "176f00e13f346f0bd440984a5041ad89"
+  }
 }
