@@ -1,0 +1,15 @@
+>make csp/astelia_dev:build
+compiling src/modules/keyboardCoreLogic2_Dual.c
+Makefile:96: recipe for target 'build/obj/src/modules/keyboardCoreLogic2_Dual.o' failed
+Makefile:145: recipe for target 'csp/astelia_dev:build' failed
+src/modules/keyboardCoreLogic2_Dual.c:7:2: error: #error corelogic option CORELOGIC_KEYSLOTS_NUM is not provided.
+ #error corelogic option CORELOGIC_KEYSLOTS_NUM is not provided.
+  ^
+src/modules/keyboardCoreLogic2_Dual.c:496:24: error: ‘CORELOGIC_KEYSLOTS_NUM’ undeclared here (not in a function)
+ #define NumKeySlotsMax CORELOGIC_KEYSLOTS_NUM
+                        ^
+src/modules/keyboardCoreLogic2_Dual.c:506:38: note: in expansion of macro ‘NumKeySlotsMax’
+   uint16_t keyAttachedOperationWords[NumKeySlotsMax];
+                                      ^
+make[1]: *** [build/obj/src/modules/keyboardCoreLogic2_Dual.o] Error 1
+make: *** [csp/astelia_dev:build] Error 2
