@@ -2,23 +2,23 @@
   "info": {
     "buildStats": {
       "total": 3,
-      "success": 1
+      "success": 3
     },
     "environment": {
       "OS": "Ubuntu 18.04.5 LTS",
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "make": "GNU Make 4.1"
     },
-    "updatedAt": "2020-10-20 13:46:04 +0000",
-    "filesRevision": 11
+    "updatedAt": "2020-10-21 10:13:44 +0000",
+    "filesRevision": 12
   },
   "files": {
+    "variants/astelia/astelia.hex": "966de4ac8fcf14a354448735cf2fb5dc",
     "variants/astelia/layout.json": "176f00e13f346f0bd440984a5041ad89",
-    "variants/astelia/build_error.log": "6d129b18ba525d5f105a95b3e17af327",
+    "variants/csp/astelia_dev/astelia_dev.hex": "966de4ac8fcf14a354448735cf2fb5dc",
     "variants/csp/astelia_dev/layout.json": "176f00e13f346f0bd440984a5041ad89",
-    "variants/csp/astelia_dev/build_error.log": "27f0962c946fa0b51f121ca921283da2",
-    "variants/proto/minivers/layout.json": "f520e23b6874986f3f7550a5bdeacc27",
-    "variants/proto/minivers/minivers.hex": "c497cf469faf41a5fe84cf067eddd1be",
-    "variants/proto/minivers/profiles/minivers_test1.json": "a7b9c80b2a7bc5429ba57188722ade94"
+    "variants/proto/minivers/minivers.hex": "659fc069dfb69b0f2f6277a2f1d1aa69",
+    "variants/proto/minivers/profiles/minivers_test1.json": "a7b9c80b2a7bc5429ba57188722ade94",
+    "variants/proto/minivers/layout.json": "f520e23b6874986f3f7550a5bdeacc27"
   }
 }
