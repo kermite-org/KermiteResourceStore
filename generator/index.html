@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <title>Keyboard Breed ID Generator</title>
@@ -13,10 +13,46 @@
     <div class='root'>
       <h3>Keyboard Breed ID Generator</h3>
       <div>
-        <input type='text'></input>
-        <button>Generate</button>
+        <input type='text' id='domInput' readonly="true"></input>
+        <button id='domButton'>Generate</button>
       </div>
     </div>
+    <script>
+      window.addEventListener('load', () => {
+        fetch('../resources/summary.json')
+        .then(res => res.json())
+        .then(obj => {
+          const existingBreedIds = Object.values(obj.projects).map(v => {
+            pos = v.indexOf(':')
+            return v.slice(0, pos);
+          })
+
+          const sourceChars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+
+          function generateBreedId(){
+            for(let i = 0; i < 100; i++){
+              const breedId = Array(8).fill(undefined).map(() => {
+                const index = Math.random() * sourceChars.length >> 0;
+                return sourceChars.charAt(index)
+              }).join('')
+              if(existingBreedIds.indexOf(breedId) == -1){
+                return breedId;
+              }
+            }
+            return undefined;
+          }
+
+          const elInput = document.querySelector('#domInput')
+          const elButton = document.querySelector('#domButton')
+          elButton.addEventListener('click', () => {
+            const newBreedId = generateBreedId();
+            if(newBreedId){
+              elInput.value = newBreedId;
+            }
+          })
+        })
+      })
+    </script>
   </body>
 </html>
 
