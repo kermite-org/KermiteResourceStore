@@ -1,30 +1,28 @@
 {
   "info": {
     "buildStats": {
-      "success": 4,
-      "total": 4
+      "success": 2,
+      "total": 2
     },
     "environment": {
       "OS": "Ubuntu 18.04.5 LTS",
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "make": "GNU Make 4.1"
     },
-    "updatedAt": "2020-10-25 01:58:17 +0000",
-    "filesRevision": 14
+    "updatedAt": "2020-10-27 01:46:05 +0000",
+    "filesRevision": 15
   },
   "files": {
-    "variants/astelia_gk/metadata.json": "996d6f47115ce75d4052392c5c2fbe3f",
-    "variants/astelia_gk/layout.json": "176f00e13f346f0bd440984a5041ad89",
-    "variants/astelia_gk/astelia_gk.hex": "ba5fb993df573b424da2c66889522daa",
-    "variants/astelia/astelia.hex": "c8236f25251ed4ade5601245f019bd2d",
-    "variants/astelia/metadata.json": "a6e342484e52867ab44bb508b35b7ac3",
-    "variants/astelia/layout.json": "176f00e13f346f0bd440984a5041ad89",
-    "variants/proto/minivers/minivers.hex": "8a2102fc47933ebd0cef8873028be3b3",
-    "variants/proto/minivers/metadata.json": "e9b849a9b10cc434b5908b37963ed211",
+    "variants/astelia/astelia.hex": "13bba3b8dba4f841812f43d4dbef8ec1",
+    "variants/astelia/metadata.json": "4f198cd8c9f0186c3a76c9e1e4291ea9",
+    "variants/astelia/layout.json": "904d277d2ef872113bc61fc0b47c033e",
+    "variants/proto/minivers/minivers.hex": "a3d150bac64505491e0aa2730bce15d4",
+    "variants/proto/minivers/metadata.json": "b68ba01be4e886c482e445586a276481",
     "variants/proto/minivers/profiles/minivers_test1.json": "a7b9c80b2a7bc5429ba57188722ade94",
-    "variants/proto/minivers/layout.json": "f520e23b6874986f3f7550a5bdeacc27",
-    "variants/proto/minivers_sk/minivers_sk.hex": "c05ce5632e6acf67e62c63a55f16aeaa",
-    "variants/proto/minivers_sk/metadata.json": "863399aabebb16805cc44c0f5f6a7145",
-    "variants/proto/minivers_sk/layout.json": "f520e23b6874986f3f7550a5bdeacc27"
+    "variants/proto/minivers/layout.json": "216bc4049793ac6898a89916d928b8c9"
+  },
+  "projects": {
+    "astelia": "79xv6ZbA:Astelia",
+    "proto/minivers": "Di6V4KvF:Minivers"
   }
 }
