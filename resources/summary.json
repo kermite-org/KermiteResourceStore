@@ -9,15 +9,15 @@
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "make": "GNU Make 4.1"
     },
-    "updatedAt": "2020-10-27 16:09:52 +0000",
-    "filesRevision": 16
+    "updatedAt": "2020-10-29 11:16:43 +0000",
+    "filesRevision": 17
   },
   "files": {
-    "variants/astelia/astelia.hex": "13bba3b8dba4f841812f43d4dbef8ec1",
-    "variants/astelia/metadata.json": "4f198cd8c9f0186c3a76c9e1e4291ea9",
+    "variants/astelia/astelia.hex": "9441f0e060ea579d9f603cae2fd6d10a",
+    "variants/astelia/metadata.json": "66bd3f6e0621e6a1e1eaab85452ba484",
     "variants/astelia/layout.json": "b3531ba8e78d92f6722b2169ac8cd472",
-    "variants/proto/minivers/minivers.hex": "a3d150bac64505491e0aa2730bce15d4",
-    "variants/proto/minivers/metadata.json": "b68ba01be4e886c482e445586a276481",
+    "variants/proto/minivers/minivers.hex": "e3796bfd6431756e434f4cb286c3444f",
+    "variants/proto/minivers/metadata.json": "c1c0f843a83aa1486c221c82f60bd575",
     "variants/proto/minivers/profiles/minivers_test1.json": "a7b9c80b2a7bc5429ba57188722ade94",
     "variants/proto/minivers/layout.json": "7a6a8594e85e330628a078ea0adfe749"
   },

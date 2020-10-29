@@ -1,10 +1,10 @@
 {
   "buildResult": "success",
-  "releaseBuildRevision": 2,
+  "releaseBuildRevision": 3,
   "buildTimestamp": "",
-  "storageFormatRevision": "2",
+  "storageFormatRevision": "3",
   "messageProtocolRevision": "1",
-  "flashUsage": 33.9,
-  "ramUsage": 90.9,
-  "hexFileMD5": "a3d150bac64505491e0aa2730bce15d4"
+  "flashUsage": 34.7,
+  "ramUsage": 94.1,
+  "hexFileMD5": "e3796bfd6431756e434f4cb286c3444f"
 }
