@@ -1,10 +1,14 @@
 {
-  "updatedAt": "2020-11-02 04:36:27 +0000",
-  "filesRevision": 19,
+  "updatedAt": "2020-11-07 06:17:01 +0000",
+  "filesRevision": 20,
   "files": {
     "variants/astelia/astelia.hex": "9380a4db00e1da6eb5440e9b1e27d375",
     "variants/astelia/metadata.json": "cc4b4cc627fe09bdc6324b68a35f8d90",
     "variants/astelia/layout.json": "b3531ba8e78d92f6722b2169ac8cd472",
+    "variants/csp/shiro/shiro.hex": "896300af6bdf9c05643d87ddc180dbf0",
+    "variants/csp/shiro/metadata.json": "32d4b11d4dfd17eba956c3905fc86f27",
+    "variants/csp/shiro/profiles/default.json": "c4133e31347aff51554f8029e9aa1e6e",
+    "variants/csp/shiro/layout.json": "7b20e967cdc348774a5252ac05f7c2d4",
     "variants/proto/minivers/minivers.hex": "cbddcbc195aac9d690d5a0e4702a8a7e",
     "variants/proto/minivers/metadata.json": "3b48e4d4c5935540605944a6f2e4d716",
     "variants/proto/minivers/profiles/minivers_test1.json": "a7b9c80b2a7bc5429ba57188722ade94",

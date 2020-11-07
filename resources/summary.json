@@ -1,16 +1,16 @@
 {
   "info": {
     "buildStats": {
-      "success": 2,
-      "total": 2
+      "success": 3,
+      "total": 3
     },
     "environment": {
       "OS": "Ubuntu 18.04.5 LTS",
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "make": "GNU Make 4.1"
     },
-    "updatedAt": "2020-11-02 04:36:28 +0000",
-    "filesRevision": 19
+    "updatedAt": "2020-11-07 06:17:01 +0000",
+    "filesRevision": 20
   },
   "projects": {
     "astelia": {
@@ -21,6 +21,15 @@
       "revision": 4,
       "updatedAt": "2020-10-30 15:24:12 +0000",
       "hexFileSize": 29100
+    },
+    "csp/shiro": {
+      "path": "csp/shiro",
+      "id": "dx5kE9SU",
+      "name": "Shiro",
+      "status": "success",
+      "revision": 1,
+      "updatedAt": "2020-11-07 06:17:00 +0000",
+      "hexFileSize": 28936
     },
     "proto/minivers": {
       "path": "proto/minivers",
