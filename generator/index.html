@@ -22,7 +22,7 @@
         fetch('../resources/summary.json')
         .then(res => res.json())
         .then(obj => {
-          const existingBreedIds = Object.values(obj.projects).map(project => project.id)
+          const existingBreedIds = obj.projects.map(project => project.projectId)
 
           const sourceChars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
 
