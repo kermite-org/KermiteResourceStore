@@ -1,11 +1,11 @@
 {
   "buildResult": "success",
-  "releaseBuildRevision": 4,
-  "buildTimestamp": "2020-10-30 15:24:12 +0000",
+  "releaseBuildRevision": 5,
+  "buildTimestamp": "2/1/2021, 8:14:46 PM",
   "storageFormatRevision": 3,
   "messageProtocolRevision": 1,
-  "flashUsage": 31.5,
+  "flashUsage": 31.3,
   "ramUsage": 66.6,
-  "hexFileSize": 29100,
-  "hexFileMD5": "9380a4db00e1da6eb5440e9b1e27d375"
+  "hexFileSize": 28916,
+  "hexFileMD5": "2fa2b9330ab707d5ff81859eea7f3a58"
 }

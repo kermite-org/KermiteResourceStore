@@ -5,12 +5,12 @@
       "numTotal": 3
     },
     "environment": {
-      "OS": "Ubuntu 18.04.5 LTS",
-      "avr-gcc": "gcc version 5.4.0 (GCC)",
-      "make": "GNU Make 4.1"
+      "OS": "Mac OS X 10.15.7",
+      "avr-gcc": "gcc version 9.3.0 (Homebrew AVR GCC 9.3.0)",
+      "make": "GNU Make 3.81"
     },
-    "updateAt": "11/25/2020, 9:20:43 PM",
-    "filesRevision": 20
+    "updateAt": "2/1/2021, 8:14:50 PM",
+    "filesRevision": 21
   },
   "projects": [
     {
@@ -18,22 +18,9 @@
       "projectId": "79xv6ZbA",
       "keyboardName": "Astelia",
       "buildStatus": "success",
-      "revision": 4,
-      "updatedAt": "2020-10-30 15:24:12 +0000",
-      "hexFileSize": 29100,
-      "layoutNames": [
-        "default"
-      ],
-      "presetNames": []
-    },
-    {
-      "projectPath": "csp/shiro",
-      "projectId": "dx5kE9SU",
-      "keyboardName": "Shiro",
-      "buildStatus": "success",
-      "revision": 1,
-      "updatedAt": "2020-11-07 06:17:00 +0000",
-      "hexFileSize": 28936,
+      "revision": 5,
+      "updatedAt": "2/1/2021, 8:14:46 PM",
+      "hexFileSize": 28916,
       "layoutNames": [
         "default"
       ],
@@ -42,17 +29,30 @@
       ]
     },
     {
+      "projectPath": "csp/shiro",
+      "projectId": "dx5kE9SU",
+      "keyboardName": "Shiro",
+      "buildStatus": "success",
+      "revision": 2,
+      "updatedAt": "2/1/2021, 8:14:48 PM",
+      "hexFileSize": 28793,
+      "layoutNames": [
+        "default"
+      ],
+      "presetNames": [
+        "default",
+        "default_old"
+      ]
+    },
+    {
       "projectPath": "proto/minivers",
       "projectId": "Di6V4KvF",
       "keyboardName": "Minivers",
       "buildStatus": "success",
-      "revision": 4,
-      "updatedAt": "2020-10-30 15:24:13 +0000",
-      "hexFileSize": 32201,
-      "layoutNames": [
-        "4row",
-        "5row"
-      ],
+      "revision": 5,
+      "updatedAt": "2/1/2021, 8:14:50 PM",
+      "hexFileSize": 31824,
+      "layoutNames": [],
       "presetNames": [
         "minivers_test1"
       ]
