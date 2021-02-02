@@ -5,12 +5,12 @@
       "numTotal": 3
     },
     "environment": {
-      "OS": "Mac OS X 10.15.7",
-      "avr-gcc": "gcc version 9.3.0 (Homebrew AVR GCC 9.3.0)",
-      "make": "GNU Make 3.81"
+      "OS": "Ubuntu 18.04.5 LTS",
+      "avr-gcc": "gcc version 5.4.0 (GCC)",
+      "make": "GNU Make 4.1"
     },
-    "updateAt": "2/1/2021, 8:14:50 PM",
-    "filesRevision": 21
+    "updateAt": "2/2/2021, 7:34:26 AM",
+    "filesRevision": 22
   },
   "projects": [
     {
@@ -18,9 +18,9 @@
       "projectId": "79xv6ZbA",
       "keyboardName": "Astelia",
       "buildStatus": "success",
-      "revision": 5,
-      "updatedAt": "2/1/2021, 8:14:46 PM",
-      "hexFileSize": 28916,
+      "revision": 6,
+      "updatedAt": "2/2/2021, 7:34:24 AM",
+      "hexFileSize": 29100,
       "layoutNames": [
         "default"
       ],
@@ -33,9 +33,9 @@
       "projectId": "dx5kE9SU",
       "keyboardName": "Shiro",
       "buildStatus": "success",
-      "revision": 2,
-      "updatedAt": "2/1/2021, 8:14:48 PM",
-      "hexFileSize": 28793,
+      "revision": 3,
+      "updatedAt": "2/2/2021, 7:34:25 AM",
+      "hexFileSize": 28936,
       "layoutNames": [
         "default"
       ],
@@ -49,9 +49,9 @@
       "projectId": "Di6V4KvF",
       "keyboardName": "Minivers",
       "buildStatus": "success",
-      "revision": 5,
-      "updatedAt": "2/1/2021, 8:14:50 PM",
-      "hexFileSize": 31824,
+      "revision": 6,
+      "updatedAt": "2/2/2021, 7:34:26 AM",
+      "hexFileSize": 32201,
       "layoutNames": [],
       "presetNames": [
         "minivers_test1"
