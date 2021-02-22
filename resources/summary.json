@@ -9,8 +9,8 @@
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "make": "GNU Make 4.1"
     },
-    "updateAt": "2/5/2021, 12:57:27 AM",
-    "filesRevision": 23
+    "updateAt": "2/22/2021, 4:54:44 AM",
+    "filesRevision": 24
   },
   "projects": [
     {
@@ -25,7 +25,7 @@
         "default"
       ],
       "presetNames": [
-        "default"
+        "default.profile"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "default"
       ],
       "presetNames": [
-        "default",
-        "default_old"
+        "default.profile",
+        "default_old.profile"
       ]
     },
     {
@@ -54,7 +54,7 @@
       "hexFileSize": 32201,
       "layoutNames": [],
       "presetNames": [
-        "minivers_test1"
+        "minivers_test1.profile"
       ]
     }
   ]
