@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2/22/2021, 6:00:47 AM",
-  "filesRevision": 26,
+  "updatedAt": "3/6/2021, 3:11:05 AM",
+  "filesRevision": 27,
   "files": {
-    "variants/astelia/astelia.hex": "9ccb9f23b117ac448d69a950e75e1b25",
+    "variants/astelia/astelia.hex": "520567ba80606a07522ffa84888b7a8b",
     "variants/astelia/default.layout.json": "f869e43d22bcd25a27f21ca1c71f7989",
-    "variants/astelia/metadata.json": "1f868b5c712c2f2a1e143ecadf8c4389",
+    "variants/astelia/metadata.json": "f77d63d0f909d26e6a51e7f518469c07",
     "variants/astelia/profiles/default.profile.json": "6face5099a4f9655e7866a57186989f3",
-    "variants/astelia/project.json": "e48ed2273d341531fee96c43d1a7dbe2",
+    "variants/astelia/project.json": "4129bdd8cc8d9b505f3870d5b4ad1635",
     "variants/csp/shiro/default.layout.json": "d9baaf6000e2026cd0988d72b8d3562b",
-    "variants/csp/shiro/metadata.json": "f9be2f267fbafc72b9c7beef1e07626d",
+    "variants/csp/shiro/metadata.json": "3a7e2109d0b26eca487d4c6c72c3f30b",
     "variants/csp/shiro/profiles/default_old.profile.json": "659fc207f19556ba4e2758e4229f727c",
     "variants/csp/shiro/profiles/default.profile.json": "41bbe3206da8ae0904679aa43e36d77e",
-    "variants/csp/shiro/project.json": "87ddd2e07726b39f4d4e21a54054ac3e",
-    "variants/csp/shiro/shiro.hex": "30685aaf930ba74879eef891a2518f1a",
-    "variants/proto/minivers/metadata.json": "f8fbcec90fd12ca5cf6a0f56e613ab66",
-    "variants/proto/minivers/minivers.hex": "83ceb068245bd6bd8e4282f358037e13",
+    "variants/csp/shiro/project.json": "5c26cc863e1bdc16ac1f082c869a8056",
+    "variants/csp/shiro/shiro.hex": "4e8cfb3216f7cc755372b1edc17e175e",
+    "variants/proto/minivers/metadata.json": "b615fa633dea760b87a9cad3c56480be",
+    "variants/proto/minivers/minivers.hex": "b8c2d16c5faac517d9a64401eab5abda",
     "variants/proto/minivers/profiles/minivers_test1.profile.json": "7e9a3b2c65dc964288e1a4532f79ce3f",
-    "variants/proto/minivers/project.json": "5479ab5c98797e8e9aa66cbfea77a951"
+    "variants/proto/minivers/project.json": "0460b809b7df309ac6c263a8cd7d8451"
   }
 }

@@ -5,12 +5,12 @@
       "numTotal": 3
     },
     "environment": {
-      "OS": "Ubuntu 18.04.5 LTS",
+      "OS": "Ubuntu 20.04.2 LTS",
       "avr-gcc": "gcc version 5.4.0 (GCC)",
-      "make": "GNU Make 4.1"
+      "make": "GNU Make 4.2.1"
     },
-    "updateAt": "2/22/2021, 6:00:48 AM",
-    "filesRevision": 25
+    "updateAt": "3/6/2021, 3:11:05 AM",
+    "filesRevision": 26
   },
   "projects": [
     {
@@ -18,9 +18,9 @@
       "projectId": "79xv6ZbA",
       "keyboardName": "Astelia",
       "buildStatus": "success",
-      "revision": 6,
-      "updatedAt": "2/2/2021, 7:34:24 AM",
-      "hexFileSize": 29100,
+      "revision": 7,
+      "updatedAt": "3/6/2021, 3:11:03 AM",
+      "hexFileSize": 31027,
       "layoutNames": [
         "default"
       ],
@@ -33,9 +33,9 @@
       "projectId": "dx5kE9SU",
       "keyboardName": "Shiro",
       "buildStatus": "success",
-      "revision": 3,
-      "updatedAt": "2/2/2021, 7:34:25 AM",
-      "hexFileSize": 28936,
+      "revision": 4,
+      "updatedAt": "3/6/2021, 3:11:04 AM",
+      "hexFileSize": 30867,
       "layoutNames": [
         "default"
       ],
@@ -49,9 +49,9 @@
       "projectId": "Di6V4KvF",
       "keyboardName": "Minivers",
       "buildStatus": "success",
-      "revision": 7,
-      "updatedAt": "2/22/2021, 6:00:47 AM",
-      "hexFileSize": 32246,
+      "revision": 8,
+      "updatedAt": "3/6/2021, 3:11:05 AM",
+      "hexFileSize": 34091,
       "layoutNames": [],
       "presetNames": [
         "minivers_test1"
