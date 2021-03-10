@@ -1,20 +1,20 @@
 {
-  "updatedAt": "3/7/2021, 3:15:28 PM",
-  "filesRevision": 28,
+  "updatedAt": "3/10/2021, 2:39:02 AM",
+  "filesRevision": 29,
   "files": {
-    "variants/astelia/astelia.hex": "87aa44d8f3eddbf89ef16742ac88b6e3",
+    "variants/astelia/astelia.hex": "94f2f55ed6a6af9442d6fdc805241311",
     "variants/astelia/default.layout.json": "f869e43d22bcd25a27f21ca1c71f7989",
-    "variants/astelia/metadata.json": "feb5bc3192d30a25056cff8e93e39979",
+    "variants/astelia/metadata.json": "dd60577be1ebb3cc0d0dea73ae0464d4",
     "variants/astelia/profiles/default.profile.json": "6face5099a4f9655e7866a57186989f3",
     "variants/astelia/project.json": "4129bdd8cc8d9b505f3870d5b4ad1635",
     "variants/csp/shiro/default.layout.json": "d9baaf6000e2026cd0988d72b8d3562b",
-    "variants/csp/shiro/metadata.json": "cd5ac0533b64039abbeb7b46eb6b53a9",
+    "variants/csp/shiro/metadata.json": "ec47987e1454f07b06ee7170a2f7c218",
     "variants/csp/shiro/profiles/default_old.profile.json": "659fc207f19556ba4e2758e4229f727c",
     "variants/csp/shiro/profiles/default.profile.json": "41bbe3206da8ae0904679aa43e36d77e",
     "variants/csp/shiro/project.json": "5c26cc863e1bdc16ac1f082c869a8056",
-    "variants/csp/shiro/shiro.hex": "36a7a397926743e4e3d16b0e54c994cf",
-    "variants/proto/minivers/metadata.json": "a2a62feb808d53e0da66f08a48ccf4a6",
-    "variants/proto/minivers/minivers.hex": "1091902cd3871489add0adf05a63e175",
+    "variants/csp/shiro/shiro.hex": "a0bb5fc2c1e8ce32fcae5b1c6204153a",
+    "variants/proto/minivers/metadata.json": "c932d3e9f942dedc87dd90f0a573284a",
+    "variants/proto/minivers/minivers.hex": "c801dbfc7d05f91f47aeae0da8d8ee74",
     "variants/proto/minivers/profiles/minivers_test1.profile.json": "7e9a3b2c65dc964288e1a4532f79ce3f",
     "variants/proto/minivers/project.json": "0460b809b7df309ac6c263a8cd7d8451"
   }
