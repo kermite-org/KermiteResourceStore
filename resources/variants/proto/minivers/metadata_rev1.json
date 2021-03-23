@@ -1,0 +1,14 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-03-23T15:30:23.434Z",
+  "storageFormatRevision": 3,
+  "messageProtocolRevision": 1,
+  "flashUsage": 38.4,
+  "ramUsage": 82.5,
+  "firmwareFileSize": 35392,
+  "firmwareBinaryFileMD5": "9acfe219f41057962253b340c8da662c",
+  "variationName": "rev1",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "minivers_rev1.hex"
+}

@@ -1,60 +1,101 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 3,
-      "numTotal": 3
+      "numSuccess": 4,
+      "numTotal": 6
     },
     "environment": {
       "OS": "Ubuntu 20.04.2 LTS",
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "make": "GNU Make 4.2.1"
     },
-    "updateAt": "2021-03-12T04:04:11.168Z",
-    "filesRevision": 30
+    "updateAt": "2021-03-23T15:30:23.539Z",
+    "filesRevision": 31
   },
   "projects": [
     {
       "projectPath": "astelia",
       "projectId": "79xv6ZbA",
       "keyboardName": "Astelia",
-      "buildStatus": "success",
-      "revision": 10,
-      "updatedAt": "3/11/2021, 4:07:52 AM",
-      "hexFileSize": 31886,
       "layoutNames": [
         "default"
       ],
       "presetNames": [
         "default"
+      ],
+      "firmwares": [
+        {
+          "variationName": "atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "astelia_atmega.hex",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-03-23T15:30:18.154Z",
+          "romUsage": 35.3,
+          "ramUsage": 71.4
+        }
       ]
     },
     {
       "projectPath": "csp/shiro",
       "projectId": "dx5kE9SU",
       "keyboardName": "Shiro",
-      "buildStatus": "success",
-      "revision": 7,
-      "updatedAt": "3/11/2021, 4:07:53 AM",
-      "hexFileSize": 31739,
       "layoutNames": [
         "default"
       ],
       "presetNames": [
         "default",
         "default_old"
+      ],
+      "firmwares": [
+        {
+          "variationName": "atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "shiro_atmega.hex",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-03-23T15:30:19.826Z",
+          "romUsage": 35.1,
+          "ramUsage": 44.3
+        }
+      ]
+    },
+    {
+      "projectPath": "proto/4x3pad",
+      "projectId": "066MbLCf",
+      "keyboardName": "4x3pad",
+      "layoutNames": [
+        "default"
+      ],
+      "presetNames": [],
+      "firmwares": [
+        {
+          "variationName": "promicro_atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "4x3pad_promicro_atmega.hex",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-03-23T15:30:21.494Z",
+          "romUsage": 35.2,
+          "ramUsage": 41.8
+        }
       ]
     },
     {
       "projectPath": "proto/minivers",
       "projectId": "Di6V4KvF",
       "keyboardName": "Minivers",
-      "buildStatus": "success",
-      "revision": 12,
-      "updatedAt": "2021-03-12T04:04:11.095Z",
-      "hexFileSize": 34979,
       "layoutNames": [],
       "presetNames": [
         "minivers_test1"
+      ],
+      "firmwares": [
+        {
+          "variationName": "rev1",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "minivers_rev1.hex",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-03-23T15:30:23.434Z",
+          "romUsage": 38.4,
+          "ramUsage": 82.5
+        }
       ]
     }
   ]

@@ -1,0 +1,14 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-03-23T15:30:21.494Z",
+  "storageFormatRevision": 3,
+  "messageProtocolRevision": 1,
+  "flashUsage": 35.2,
+  "ramUsage": 41.8,
+  "firmwareFileSize": 32438,
+  "firmwareBinaryFileMD5": "5cf1f2dcd107c3964199a1a7230ef1bc",
+  "variationName": "promicro_atmega",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "4x3pad_promicro_atmega.hex"
+}
