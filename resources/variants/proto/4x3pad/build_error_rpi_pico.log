@@ -1,4 +1,0 @@
->make proto/4x3pad:rpi_pico:build RELEASE_REVISION=0 IS_RESOURCE_ORIGIN_ONLINE=1
-make[1]: arm-none-eabi-gcc: Command not found
-make[1]: *** [worker/rp2040.mk:259: build/proto/4x3pad/rpi_pico/obj/src/modules/km0/common/utils.c.obj] Error 127
-make: *** [Makefile:62: proto/4x3pad:rpi_pico:build] Error 2

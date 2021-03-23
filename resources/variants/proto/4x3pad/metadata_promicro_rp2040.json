@@ -1,4 +1,14 @@
 {
-  "buildResult": "failure",
-  "releaseBuildRevision": 0
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-03-23T15:45:35.131Z",
+  "storageFormatRevision": 3,
+  "messageProtocolRevision": 1,
+  "flashUsage": 2.02,
+  "ramUsage": 4.07,
+  "firmwareFileSize": 84992,
+  "firmwareBinaryFileMD5": "a49c0a6b36f9c39248eeaab3adacd47f",
+  "variationName": "promicro_rp2040",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "4x3pad_promicro_rp2040.uf2"
 }
