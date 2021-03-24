@@ -6,11 +6,12 @@
     },
     "environment": {
       "OS": "Ubuntu 20.04.2 LTS",
+      "make": "GNU Make 4.2.1",
       "avr-gcc": "gcc version 5.4.0 (GCC)",
-      "make": "GNU Make 4.2.1"
+      "arm-none-eabi-gcc": ""
     },
-    "updateAt": "2021-03-23T15:45:37.645Z",
-    "filesRevision": 32
+    "updateAt": "2021-03-24T13:54:59.493Z",
+    "filesRevision": 33
   },
   "projects": [
     {
@@ -28,9 +29,9 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "astelia_atmega.hex",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-03-23T15:30:18.154Z",
-          "romUsage": 35.3,
+          "buildRevision": 2,
+          "buildTimestamp": "2021-03-24T13:54:46.517Z",
+          "romUsage": 35.4,
           "ramUsage": 71.4
         }
       ]
@@ -51,9 +52,9 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "shiro_atmega.hex",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-03-23T15:30:19.826Z",
-          "romUsage": 35.1,
+          "buildRevision": 2,
+          "buildTimestamp": "2021-03-24T13:54:47.679Z",
+          "romUsage": 35.2,
           "ramUsage": 44.3
         }
       ]
@@ -71,8 +72,8 @@
           "variationName": "promicro_atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "4x3pad_promicro_atmega.hex",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-03-23T15:30:21.494Z",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-03-24T13:54:48.789Z",
           "romUsage": 35.2,
           "ramUsage": 41.8
         },
@@ -80,8 +81,8 @@
           "variationName": "promicro_rp2040",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_promicro_rp2040.uf2",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-03-23T15:45:35.131Z",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-03-24T13:54:56.385Z",
           "romUsage": 2.02,
           "ramUsage": 4.07
         },
@@ -89,8 +90,8 @@
           "variationName": "rpi_pico",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_rpi_pico.uf2",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-03-23T15:45:36.919Z",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-03-24T13:54:58.210Z",
           "romUsage": 1.96,
           "ramUsage": 4.06
         }
@@ -109,8 +110,8 @@
           "variationName": "rev1",
           "targetDevice": "atmega32u4",
           "binaryFileName": "minivers_rev1.hex",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-03-23T15:30:23.434Z",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-03-24T13:54:59.415Z",
           "romUsage": 38.4,
           "ramUsage": 82.5
         }
