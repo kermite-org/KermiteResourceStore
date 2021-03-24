@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2021-03-24T13:54:59.426Z",
-  "filesRevision": 34,
+  "updatedAt": "2021-03-24T14:09:10.834Z",
+  "filesRevision": 35,
   "files": {
     "variants/astelia/astelia_atmega.hex": "fe6f16f583fb3cacbf7ead3dcc7776ad",
     "variants/astelia/default.layout.json": "f869e43d22bcd25a27f21ca1c71f7989",
@@ -15,11 +15,11 @@
     "variants/csp/shiro/shiro_atmega.hex": "61cc5a99f941cff43fc59b17f7beaee7",
     "variants/proto/4x3pad/4x3pad_promicro_atmega.hex": "67b5afdfb6635e39396ff93a5f4db4d3",
     "variants/proto/4x3pad/4x3pad_promicro_rp2040.uf2": "9f96500800ff393aed66584320a1d489",
-    "variants/proto/4x3pad/4x3pad_rpi_pico.uf2": "8029ddbc9086dab3da2a8a22ae6d8342",
+    "variants/proto/4x3pad/4x3pad_rpi_pico.uf2": "fccb14e590a78999878147b02aa391e7",
     "variants/proto/4x3pad/default.layout.json": "eaa8d7b94c7fb81db912e7ccfd93163d",
     "variants/proto/4x3pad/metadata_promicro_atmega.json": "762f7ce6153233a93ecb1c2b7f46340d",
     "variants/proto/4x3pad/metadata_promicro_rp2040.json": "65eb6585071ef85f5de540344c5664b4",
-    "variants/proto/4x3pad/metadata_rpi_pico.json": "1b016d603d6d90e3849f8e2f9bcb7e89",
+    "variants/proto/4x3pad/metadata_rpi_pico.json": "c8dcc2d32c5d3dac690977527f7f0375",
     "variants/proto/4x3pad/project.json": "c925dcdc8265c8df097cfe2865aea5d8",
     "variants/proto/minivers/metadata_rev1.json": "d1321818ca2f4bab21f0254f61bfe494",
     "variants/proto/minivers/minivers_rev1.hex": "3933f5b938c77c560339a4b1ade1ec82",

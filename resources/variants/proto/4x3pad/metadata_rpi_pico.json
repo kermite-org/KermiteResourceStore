@@ -1,13 +1,13 @@
 {
   "buildResult": "success",
-  "releaseBuildRevision": 2,
-  "buildTimestamp": "2021-03-24T13:54:58.210Z",
+  "releaseBuildRevision": 3,
+  "buildTimestamp": "2021-03-24T14:09:10.039Z",
   "storageFormatRevision": 3,
   "messageProtocolRevision": 1,
   "flashUsage": 1.96,
   "ramUsage": 4.06,
   "firmwareFileSize": 82432,
-  "firmwareBinaryFileMD5": "8029ddbc9086dab3da2a8a22ae6d8342",
+  "firmwareBinaryFileMD5": "fccb14e590a78999878147b02aa391e7",
   "variationName": "rpi_pico",
   "targetDevice": "rp2040",
   "firmwareFileName": "4x3pad_rpi_pico.uf2"
