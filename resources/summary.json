@@ -10,8 +10,8 @@
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-03-24T14:12:41.899Z",
-    "filesRevision": 35
+    "updateAt": "2021-04-01T10:08:47.751Z",
+    "filesRevision": 36
   },
   "projects": [
     {
@@ -81,8 +81,8 @@
           "variationName": "promicro_rp2040",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_promicro_rp2040.uf2",
-          "buildRevision": 2,
-          "buildTimestamp": "2021-03-24T13:54:56.385Z",
+          "buildRevision": 3,
+          "buildTimestamp": "2021-04-01T10:08:44.474Z",
           "romUsage": 2.02,
           "ramUsage": 4.07
         },
@@ -90,8 +90,8 @@
           "variationName": "rpi_pico",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_rpi_pico.uf2",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-03-24T14:12:41.102Z",
+          "buildRevision": 5,
+          "buildTimestamp": "2021-04-01T10:08:46.934Z",
           "romUsage": 1.96,
           "ramUsage": 4.06
         }
