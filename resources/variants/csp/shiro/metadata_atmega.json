@@ -1,13 +1,13 @@
 {
   "buildResult": "success",
-  "releaseBuildRevision": 2,
-  "buildTimestamp": "2021-03-24T13:54:47.679Z",
+  "releaseBuildRevision": 3,
+  "buildTimestamp": "2021-04-06T14:09:27.688Z",
   "storageFormatRevision": 3,
   "messageProtocolRevision": 1,
-  "flashUsage": 35.2,
+  "flashUsage": 35.3,
   "ramUsage": 44.3,
-  "firmwareFileSize": 32463,
-  "firmwareBinaryFileMD5": "61cc5a99f941cff43fc59b17f7beaee7",
+  "firmwareFileSize": 32528,
+  "firmwareBinaryFileMD5": "d4e83752cc995b229739fc9e2b428e5c",
   "variationName": "atmega",
   "targetDevice": "atmega32u4",
   "firmwareFileName": "shiro_atmega.hex"
