@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2021-04-06T14:09:54.050Z",
-  "filesRevision": 38,
+  "updatedAt": "2021-04-06T14:18:50.773Z",
+  "filesRevision": 39,
   "files": {
     "variants/astelia/astelia_atmega.hex": "06e1b7239f1f020ca82ef321ad200bcc",
     "variants/astelia/default.layout.json": "f869e43d22bcd25a27f21ca1c71f7989",
-    "variants/astelia/metadata_atmega.json": "268df8b32695c4b91d8b4a0ecdc316de",
+    "variants/astelia/metadata_atmega.json": "4fb09fb8e38b4980d01f0093fa682f47",
     "variants/astelia/profiles/default.profile.json": "6face5099a4f9655e7866a57186989f3",
     "variants/astelia/project.json": "268acffaa7ab1be338da615817e64c58",
     "variants/csp/shiro/default.layout.json": "d9baaf6000e2026cd0988d72b8d3562b",
