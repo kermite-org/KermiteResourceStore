@@ -1,4 +1,0 @@
->make proto/4x3pad:rpi_pico_split:build RELEASE_REVISION=1 IS_RESOURCE_ORIGIN_ONLINE=1
-/bin/sh: 1: cd: can't cd to deps/rp2040/pico_sdk_import/pico_sdk_tools/pioasm
-make[1]: *** [workers/worker_rp2040.mk:267: deps/rp2040/pico_sdk_import/pico_sdk_tools/pioasm/build/pioasm] Error 2
-make: *** [Makefile:62: proto/4x3pad:rpi_pico_split:build] Error 2

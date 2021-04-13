@@ -1,7 +1,0 @@
->make proto/4x3pad:rpi_pico:build RELEASE_REVISION=6 IS_RESOURCE_ORIGIN_ONLINE=1
-src/modules/km0/device_io/rp2040/system.c:2:10: fatal error: pico/stdlib.h: No such file or directory
-    2 | #include "pico/stdlib.h"
-      |          ^~~~~~~~~~~~~~~
-compilation terminated.
-make[1]: *** [workers/worker_rp2040.mk:242: build/proto/4x3pad/rpi_pico/obj/src/modules/km0/device_io/rp2040/system.c.obj] Error 1
-make: *** [Makefile:62: proto/4x3pad:rpi_pico:build] Error 2

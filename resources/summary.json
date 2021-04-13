@@ -1,7 +1,7 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 4,
+      "numSuccess": 8,
       "numTotal": 8
     },
     "environment": {
@@ -10,8 +10,8 @@
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-04-13T04:36:03.499Z",
-    "filesRevision": 39
+    "updateAt": "2021-04-13T05:03:07.176Z",
+    "filesRevision": 40
   },
   "projects": [
     {
@@ -76,6 +76,33 @@
           "buildTimestamp": "2021-04-06T14:09:29.048Z",
           "romUsage": 35.3,
           "ramUsage": 41.8
+        },
+        {
+          "variationName": "promicro_rp2040",
+          "targetDevice": "rp2040",
+          "binaryFileName": "4x3pad_promicro_rp2040.uf2",
+          "buildRevision": 5,
+          "buildTimestamp": "2021-04-13T05:02:59.536Z",
+          "romUsage": 2.05,
+          "ramUsage": 4.09
+        },
+        {
+          "variationName": "rpi_pico",
+          "targetDevice": "rp2040",
+          "binaryFileName": "4x3pad_rpi_pico.uf2",
+          "buildRevision": 7,
+          "buildTimestamp": "2021-04-13T05:03:03.877Z",
+          "romUsage": 1.98,
+          "ramUsage": 4.08
+        },
+        {
+          "variationName": "rpi_pico_split",
+          "targetDevice": "rp2040",
+          "binaryFileName": "4x3pad_rpi_pico_split.uf2",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-04-13T05:03:01.822Z",
+          "romUsage": 2.14,
+          "ramUsage": 4.23
         }
       ]
     },
@@ -96,6 +123,15 @@
           "buildTimestamp": "2021-04-06T14:09:54.032Z",
           "romUsage": 38.8,
           "ramUsage": 72.2
+        },
+        {
+          "variationName": "rev1_rp",
+          "targetDevice": "rp2040",
+          "binaryFileName": "minivers_rev1_rp.uf2",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-04-13T05:03:06.344Z",
+          "romUsage": 2.16,
+          "ramUsage": 4.51
         }
       ]
     }
