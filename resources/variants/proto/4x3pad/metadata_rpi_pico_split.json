@@ -1,14 +1,5 @@
 {
-  "buildResult": "success",
+  "buildResult": "failure",
   "releaseBuildRevision": 1,
-  "buildTimestamp": "2021-04-06T14:09:47.482Z",
-  "storageFormatRevision": 3,
-  "messageProtocolRevision": 1,
-  "flashUsage": 2.13,
-  "ramUsage": 4.23,
-  "firmwareFileSize": 89600,
-  "firmwareBinaryFileMD5": "49626550c64c39a2f050d56eec8b93dc",
-  "variationName": "rpi_pico_split",
-  "targetDevice": "rp2040",
-  "firmwareFileName": "4x3pad_rpi_pico_split.uf2"
+  "buildTimestamp": "2021-04-06T14:09:47.482Z"
 }
