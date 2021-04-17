@@ -10,8 +10,8 @@
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-04-13T05:03:07.176Z",
-    "filesRevision": 40
+    "updateAt": "2021-04-17T08:38:58.852Z",
+    "filesRevision": 41
   },
   "projects": [
     {
@@ -29,10 +29,10 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "astelia_atmega.hex",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-04-06T14:09:26.283Z",
-          "romUsage": 35.4,
-          "ramUsage": 71.4
+          "buildRevision": 4,
+          "buildTimestamp": "2021-04-17T08:38:31.332Z",
+          "romUsage": 35.3,
+          "ramUsage": 54.2
         }
       ]
     },
@@ -45,17 +45,17 @@
       ],
       "presetNames": [
         "default",
-        "default_old"
+        "shiro_test1"
       ],
       "firmwares": [
         {
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "shiro_atmega.hex",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-04-06T14:09:27.688Z",
-          "romUsage": 35.3,
-          "ramUsage": 44.3
+          "buildRevision": 4,
+          "buildTimestamp": "2021-04-17T08:38:32.567Z",
+          "romUsage": 35.1,
+          "ramUsage": 38.4
         }
       ]
     },
@@ -72,37 +72,37 @@
           "variationName": "promicro_atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "4x3pad_promicro_atmega.hex",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-04-06T14:09:29.048Z",
-          "romUsage": 35.3,
-          "ramUsage": 41.8
+          "buildRevision": 4,
+          "buildTimestamp": "2021-04-17T08:38:33.817Z",
+          "romUsage": 35.2,
+          "ramUsage": 37.3
         },
         {
           "variationName": "promicro_rp2040",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_promicro_rp2040.uf2",
-          "buildRevision": 5,
-          "buildTimestamp": "2021-04-13T05:02:59.536Z",
+          "buildRevision": 6,
+          "buildTimestamp": "2021-04-17T08:38:50.774Z",
           "romUsage": 2.05,
-          "ramUsage": 4.09
+          "ramUsage": 4.03
         },
         {
           "variationName": "rpi_pico",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_rpi_pico.uf2",
-          "buildRevision": 7,
-          "buildTimestamp": "2021-04-13T05:03:03.877Z",
+          "buildRevision": 8,
+          "buildTimestamp": "2021-04-17T08:38:54.803Z",
           "romUsage": 1.98,
-          "ramUsage": 4.08
+          "ramUsage": 4.03
         },
         {
           "variationName": "rpi_pico_split",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_rpi_pico_split.uf2",
-          "buildRevision": 2,
-          "buildTimestamp": "2021-04-13T05:03:01.822Z",
+          "buildRevision": 3,
+          "buildTimestamp": "2021-04-17T08:38:52.928Z",
           "romUsage": 2.14,
-          "ramUsage": 4.23
+          "ramUsage": 4.12
         }
       ]
     },
@@ -110,28 +110,29 @@
       "projectPath": "proto/minivers",
       "projectId": "Di6V4KvF",
       "keyboardName": "Minivers",
-      "layoutNames": [],
-      "presetNames": [
-        "minivers_test1"
+      "layoutNames": [
+        "rev1",
+        "rev2"
       ],
+      "presetNames": [],
       "firmwares": [
         {
           "variationName": "rev1",
           "targetDevice": "atmega32u4",
           "binaryFileName": "minivers_rev1.hex",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-04-06T14:09:54.032Z",
-          "romUsage": 38.8,
-          "ramUsage": 72.2
+          "buildRevision": 4,
+          "buildTimestamp": "2021-04-17T08:38:58.767Z",
+          "romUsage": 38.6,
+          "ramUsage": 70.5
         },
         {
           "variationName": "rev1_rp",
           "targetDevice": "rp2040",
           "binaryFileName": "minivers_rev1_rp.uf2",
-          "buildRevision": 2,
-          "buildTimestamp": "2021-04-13T05:03:06.344Z",
+          "buildRevision": 3,
+          "buildTimestamp": "2021-04-17T08:38:57.408Z",
           "romUsage": 2.16,
-          "ramUsage": 4.51
+          "ramUsage": 4.29
         }
       ]
     }
