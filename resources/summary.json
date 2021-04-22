@@ -10,8 +10,8 @@
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-04-17T08:38:58.852Z",
-    "filesRevision": 41
+    "updateAt": "2021-04-22T00:14:36.125Z",
+    "filesRevision": 42
   },
   "projects": [
     {
@@ -29,10 +29,10 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "astelia_atmega.hex",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-04-17T08:38:31.332Z",
-          "romUsage": 35.3,
-          "ramUsage": 54.2
+          "buildRevision": 5,
+          "buildTimestamp": "2021-04-22T00:13:58.319Z",
+          "romUsage": 37,
+          "ramUsage": 57.9
         }
       ]
     },
@@ -52,10 +52,10 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "shiro_atmega.hex",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-04-17T08:38:32.567Z",
-          "romUsage": 35.1,
-          "ramUsage": 38.4
+          "buildRevision": 5,
+          "buildTimestamp": "2021-04-22T00:14:00.060Z",
+          "romUsage": 36.8,
+          "ramUsage": 39.6
         }
       ]
     },
@@ -72,37 +72,37 @@
           "variationName": "promicro_atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "4x3pad_promicro_atmega.hex",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-04-17T08:38:33.817Z",
-          "romUsage": 35.2,
-          "ramUsage": 37.3
+          "buildRevision": 5,
+          "buildTimestamp": "2021-04-22T00:14:01.757Z",
+          "romUsage": 36.9,
+          "ramUsage": 38.2
         },
         {
           "variationName": "promicro_rp2040",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_promicro_rp2040.uf2",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-04-17T08:38:50.774Z",
-          "romUsage": 2.05,
-          "ramUsage": 4.03
+          "buildRevision": 7,
+          "buildTimestamp": "2021-04-22T00:14:25.827Z",
+          "romUsage": 2.06,
+          "ramUsage": 4.04
         },
         {
           "variationName": "rpi_pico",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_rpi_pico.uf2",
-          "buildRevision": 8,
-          "buildTimestamp": "2021-04-17T08:38:54.803Z",
-          "romUsage": 1.98,
-          "ramUsage": 4.03
+          "buildRevision": 9,
+          "buildTimestamp": "2021-04-22T00:14:31.217Z",
+          "romUsage": 2,
+          "ramUsage": 4.04
         },
         {
           "variationName": "rpi_pico_split",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_rpi_pico_split.uf2",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-04-17T08:38:52.928Z",
-          "romUsage": 2.14,
-          "ramUsage": 4.12
+          "buildRevision": 4,
+          "buildTimestamp": "2021-04-22T00:14:28.743Z",
+          "romUsage": 2.16,
+          "ramUsage": 4.14
         }
       ]
     },
@@ -120,19 +120,19 @@
           "variationName": "rev1",
           "targetDevice": "atmega32u4",
           "binaryFileName": "minivers_rev1.hex",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-04-17T08:38:58.767Z",
-          "romUsage": 38.6,
-          "ramUsage": 70.5
+          "buildRevision": 5,
+          "buildTimestamp": "2021-04-22T00:14:36.007Z",
+          "romUsage": 40.3,
+          "ramUsage": 76.8
         },
         {
           "variationName": "rev1_rp",
           "targetDevice": "rp2040",
           "binaryFileName": "minivers_rev1_rp.uf2",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-04-17T08:38:57.408Z",
-          "romUsage": 2.16,
-          "ramUsage": 4.29
+          "buildRevision": 4,
+          "buildTimestamp": "2021-04-22T00:14:34.239Z",
+          "romUsage": 2.17,
+          "ramUsage": 4.33
         }
       ]
     }
