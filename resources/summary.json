@@ -1,7 +1,7 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 9,
+      "numSuccess": 10,
       "numTotal": 12
     },
     "environment": {
@@ -10,8 +10,8 @@
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-05-16T19:01:29.668Z",
-    "filesRevision": 43
+    "updateAt": "2021-05-16T19:07:07.942Z",
+    "filesRevision": 44
   },
   "projects": [
     {
@@ -68,6 +68,15 @@
       ],
       "presetNames": [],
       "firmwares": [
+        {
+          "variationName": "directWired4withEncoder",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "testbed_directWired4withEncoder.hex",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-05-16T19:06:44.087Z",
+          "romUsage": 48.8,
+          "ramUsage": 62.5
+        },
         {
           "variationName": "splitKeyboardWithI2c",
           "targetDevice": "rp2040",
