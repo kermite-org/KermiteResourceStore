@@ -1,8 +1,8 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 8,
-      "numTotal": 8
+      "numSuccess": 9,
+      "numTotal": 12
     },
     "environment": {
       "OS": "Ubuntu 20.04.2 LTS",
@@ -10,8 +10,8 @@
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-04-22T00:14:36.125Z",
-    "filesRevision": 42
+    "updateAt": "2021-05-16T19:01:29.668Z",
+    "filesRevision": 43
   },
   "projects": [
     {
@@ -29,10 +29,10 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "astelia_atmega.hex",
-          "buildRevision": 5,
-          "buildTimestamp": "2021-04-22T00:13:58.319Z",
-          "romUsage": 37,
-          "ramUsage": 57.9
+          "buildRevision": 6,
+          "buildTimestamp": "2021-05-16T19:00:59.405Z",
+          "romUsage": 47.8,
+          "ramUsage": 84.4
         }
       ]
     },
@@ -52,10 +52,39 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "shiro_atmega.hex",
-          "buildRevision": 5,
-          "buildTimestamp": "2021-04-22T00:14:00.060Z",
-          "romUsage": 36.8,
-          "ramUsage": 39.6
+          "buildRevision": 6,
+          "buildTimestamp": "2021-05-16T19:01:00.827Z",
+          "romUsage": 47.8,
+          "ramUsage": 64.6
+        }
+      ]
+    },
+    {
+      "projectPath": "dev/testbed",
+      "projectId": "RcYEeqNX",
+      "keyboardName": "testbed",
+      "layoutNames": [
+        "4keys_with_encoder"
+      ],
+      "presetNames": [],
+      "firmwares": [
+        {
+          "variationName": "splitKeyboardWithI2c",
+          "targetDevice": "rp2040",
+          "binaryFileName": "testbed_splitKeyboardWithI2c.uf2",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-05-16T19:01:07.592Z",
+          "romUsage": 3.15,
+          "ramUsage": 5
+        },
+        {
+          "variationName": "withLcd",
+          "targetDevice": "rp2040",
+          "binaryFileName": "testbed_withLcd.uf2",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-05-16T19:01:10.820Z",
+          "romUsage": 3.43,
+          "ramUsage": 5.35
         }
       ]
     },
@@ -72,37 +101,37 @@
           "variationName": "promicro_atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "4x3pad_promicro_atmega.hex",
-          "buildRevision": 5,
-          "buildTimestamp": "2021-04-22T00:14:01.757Z",
-          "romUsage": 36.9,
-          "ramUsage": 38.2
+          "buildRevision": 6,
+          "buildTimestamp": "2021-05-16T19:01:12.233Z",
+          "romUsage": 47.8,
+          "ramUsage": 63.2
         },
         {
           "variationName": "promicro_rp2040",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_promicro_rp2040.uf2",
-          "buildRevision": 7,
-          "buildTimestamp": "2021-04-22T00:14:25.827Z",
-          "romUsage": 2.06,
-          "ramUsage": 4.04
+          "buildRevision": 8,
+          "buildTimestamp": "2021-05-16T19:01:21.429Z",
+          "romUsage": 3.13,
+          "ramUsage": 5.01
         },
         {
           "variationName": "rpi_pico",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_rpi_pico.uf2",
-          "buildRevision": 9,
-          "buildTimestamp": "2021-04-22T00:14:31.217Z",
-          "romUsage": 2,
-          "ramUsage": 4.04
+          "buildRevision": 10,
+          "buildTimestamp": "2021-05-16T19:01:26.239Z",
+          "romUsage": 3.06,
+          "ramUsage": 5
         },
         {
           "variationName": "rpi_pico_split",
           "targetDevice": "rp2040",
           "binaryFileName": "4x3pad_rpi_pico_split.uf2",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-04-22T00:14:28.743Z",
-          "romUsage": 2.16,
-          "ramUsage": 4.14
+          "buildRevision": 5,
+          "buildTimestamp": "2021-05-16T19:01:24.037Z",
+          "romUsage": 3.22,
+          "ramUsage": 5.12
         }
       ]
     },
@@ -112,27 +141,19 @@
       "keyboardName": "Minivers",
       "layoutNames": [
         "rev1",
+        "rev1_debug64",
         "rev2"
       ],
       "presetNames": [],
       "firmwares": [
         {
-          "variationName": "rev1",
-          "targetDevice": "atmega32u4",
-          "binaryFileName": "minivers_rev1.hex",
-          "buildRevision": 5,
-          "buildTimestamp": "2021-04-22T00:14:36.007Z",
-          "romUsage": 40.3,
-          "ramUsage": 76.8
-        },
-        {
-          "variationName": "rev1_rp",
+          "variationName": "rev2_rp",
           "targetDevice": "rp2040",
-          "binaryFileName": "minivers_rev1_rp.uf2",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-04-22T00:14:34.239Z",
-          "romUsage": 2.17,
-          "ramUsage": 4.33
+          "binaryFileName": "minivers_rev2_rp.uf2",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-05-16T19:01:29.580Z",
+          "romUsage": 3.25,
+          "ramUsage": 5.37
         }
       ]
     }

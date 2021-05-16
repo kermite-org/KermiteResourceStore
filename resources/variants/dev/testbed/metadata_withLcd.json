@@ -1,0 +1,16 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-05-16T19:01:10.820Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 2,
+  "configParametersRevision": 1,
+  "flashUsage": 3.43,
+  "ramUsage": 5.35,
+  "firmwareFileSize": 144384,
+  "firmwareBinaryFileMD5": "10873a03f283129e9e20b0c0dcd64844",
+  "variationName": "withLcd",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "testbed_withLcd.uf2"
+}
