@@ -10,8 +10,8 @@
       "avr-gcc": "gcc version 5.4.0 (GCC)",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-05-16T19:32:53.172Z",
-    "filesRevision": 45
+    "updateAt": "2021-05-20T10:44:02.094Z",
+    "filesRevision": 46
   },
   "projects": [
     {
@@ -31,8 +31,8 @@
           "binaryFileName": "astelia_atmega.hex",
           "buildRevision": 6,
           "buildTimestamp": "2021-05-16T19:00:59.405Z",
-          "romUsage": 47.8,
-          "ramUsage": 84.4
+          "romUsage": 47.808837890625,
+          "ramUsage": 84.4140625
         }
       ]
     },
@@ -54,8 +54,8 @@
           "binaryFileName": "shiro_atmega.hex",
           "buildRevision": 6,
           "buildTimestamp": "2021-05-16T19:01:00.827Z",
-          "romUsage": 47.8,
-          "ramUsage": 64.6
+          "romUsage": 47.7783203125,
+          "ramUsage": 64.5703125
         }
       ]
     },
@@ -103,8 +103,8 @@
           "binaryFileName": "4x3pad_promicro_atmega.hex",
           "buildRevision": 6,
           "buildTimestamp": "2021-05-16T19:01:12.233Z",
-          "romUsage": 47.8,
-          "ramUsage": 63.2
+          "romUsage": 47.833251953125,
+          "ramUsage": 63.16406249999999
         },
         {
           "variationName": "promicro_rp2040",

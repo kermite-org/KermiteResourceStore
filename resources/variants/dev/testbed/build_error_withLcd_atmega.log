@@ -5,5 +5,5 @@ src/modules/km0/visualizer/oledDisplay_atmega/oledDisplay_default.c:28:25: error
 src/modules/km0/visualizer/oledDisplay_atmega/oledDisplay_default.c:29:33: error: initializer element is not constant
  uint8_t mainFontLetterSpacing = oledFontLetterSpacing;
                                  ^
-make[1]: *** [workers/worker_atmega32u4.mk:85: build/dev/testbed/withLcd_atmega/obj/src/modules/km0/visualizer/oledDisplay_atmega/oledDisplay_default.o] Error 1
-make: *** [Makefile:62: dev/testbed:withLcd_atmega:build] Error 2
+make[1]: *** [workers/worker_atmega32u4.mk:89: build/dev/testbed/withLcd_atmega/obj/src/modules/km0/visualizer/oledDisplay_atmega/oledDisplay_default.o] Error 1
+make: *** [Makefile:64: dev/testbed:withLcd_atmega:build] Error 2

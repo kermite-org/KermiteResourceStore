@@ -1,1 +1,6 @@
-firmware footprint overrun (FLASH: 51.6%, RAM: 104.7%)
+>make proto/minivers:rev1:build RELEASE_REVISION=5 IS_RESOURCE_ORIGIN_ONLINE=1
+/usr/lib/gcc/avr/5.4.0/../../../avr/bin/ld: address 0x800b78 of build/proto/minivers/rev1/minivers_rev1.elf section `.bss' is not within region `data'
+/usr/lib/gcc/avr/5.4.0/../../../avr/bin/ld: address 0x800b78 of build/proto/minivers/rev1/minivers_rev1.elf section `.bss' is not within region `data'
+collect2: error: ld returned 1 exit status
+make[1]: *** [workers/worker_atmega32u4.mk:99: build/proto/minivers/rev1/minivers_rev1.elf] Error 1
+make: *** [Makefile:64: proto/minivers:rev1:build] Error 2

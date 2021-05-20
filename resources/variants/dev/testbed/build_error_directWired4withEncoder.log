@@ -15,5 +15,5 @@ src/modules/km0/keyboard/keyScanner_encoderBasic.c:29:48: error: initializer ele
    0, -1, 1, err, 1, 0, err, -1, -1, err, 0, 1, err, 1, -1, 0
                                                 ^
 src/modules/km0/keyboard/keyScanner_encoderBasic.c:29:48: note: (near initialization for ‘encoder_count_delta_table[12]’)
-make[1]: *** [workers/worker_atmega32u4.mk:85: build/dev/testbed/directWired4withEncoder/obj/src/modules/km0/keyboard/keyScanner_encoderBasic.o] Error 1
-make: *** [Makefile:62: dev/testbed:directWired4withEncoder:build] Error 2
+make[1]: *** [workers/worker_atmega32u4.mk:89: build/dev/testbed/directWired4withEncoder/obj/src/modules/km0/keyboard/keyScanner_encoderBasic.o] Error 1
+make: *** [Makefile:64: dev/testbed:directWired4withEncoder:build] Error 2
