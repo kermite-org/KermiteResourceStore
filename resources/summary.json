@@ -10,8 +10,8 @@
       "avr-gcc": "gcc version 11.1.0 (GCC)",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-05-20T11:58:40.868Z",
-    "filesRevision": 47
+    "updateAt": "2021-05-20T12:03:37.818Z",
+    "filesRevision": 48
   },
   "projects": [
     {
@@ -31,7 +31,7 @@
           "binaryFileName": "astelia_atmega.hex",
           "buildRevision": 7,
           "buildTimestamp": "2021-05-20T11:58:05.753Z",
-          "romUsage": 47.552490234375,
+          "romUsage": 47.55859375,
           "ramUsage": 84.4140625
         }
       ]
@@ -54,7 +54,7 @@
           "binaryFileName": "shiro_atmega.hex",
           "buildRevision": 7,
           "buildTimestamp": "2021-05-20T11:58:08.064Z",
-          "romUsage": 47.491455078125,
+          "romUsage": 47.49755859375,
           "ramUsage": 64.5703125
         }
       ]
@@ -74,7 +74,7 @@
           "binaryFileName": "testbed_directWired4withEncoder.hex",
           "buildRevision": 2,
           "buildTimestamp": "2021-05-20T11:58:10.398Z",
-          "romUsage": 48.47412109375,
+          "romUsage": 48.480224609375,
           "ramUsage": 62.5390625
         },
         {
@@ -121,7 +121,7 @@
           "binaryFileName": "4x3pad_promicro_atmega.hex",
           "buildRevision": 7,
           "buildTimestamp": "2021-05-20T11:58:23.400Z",
-          "romUsage": 47.54638671875,
+          "romUsage": 47.552490234375,
           "ramUsage": 63.16406249999999
         },
         {
