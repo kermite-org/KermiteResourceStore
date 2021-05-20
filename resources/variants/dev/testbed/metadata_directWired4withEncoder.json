@@ -1,5 +1,16 @@
 {
-  "buildResult": "failure",
-  "releaseBuildRevision": 1,
-  "buildTimestamp": "2021-05-16T19:06:44.087Z"
+  "buildResult": "success",
+  "releaseBuildRevision": 2,
+  "buildTimestamp": "2021-05-20T11:58:10.398Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 2,
+  "configParametersRevision": 1,
+  "flashUsage": 48.47412109375,
+  "ramUsage": 62.5390625,
+  "firmwareFileSize": 44707,
+  "firmwareBinaryFileMD5": "417f6ebabf58acd821071e5262fd388c",
+  "variationName": "directWired4withEncoder",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "testbed_directWired4withEncoder.hex"
 }

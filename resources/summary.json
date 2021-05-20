@@ -1,17 +1,17 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 9,
+      "numSuccess": 11,
       "numTotal": 12
     },
     "environment": {
       "OS": "Ubuntu 20.04.2 LTS",
       "make": "GNU Make 4.2.1",
-      "avr-gcc": "gcc version 5.4.0 (GCC)",
+      "avr-gcc": "gcc version 11.1.0 (GCC)",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-05-20T10:44:02.094Z",
-    "filesRevision": 46
+    "updateAt": "2021-05-20T11:58:40.868Z",
+    "filesRevision": 47
   },
   "projects": [
     {
@@ -29,9 +29,9 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "astelia_atmega.hex",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-05-16T19:00:59.405Z",
-          "romUsage": 47.808837890625,
+          "buildRevision": 7,
+          "buildTimestamp": "2021-05-20T11:58:05.753Z",
+          "romUsage": 47.552490234375,
           "ramUsage": 84.4140625
         }
       ]
@@ -52,9 +52,9 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "shiro_atmega.hex",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-05-16T19:01:00.827Z",
-          "romUsage": 47.7783203125,
+          "buildRevision": 7,
+          "buildTimestamp": "2021-05-20T11:58:08.064Z",
+          "romUsage": 47.491455078125,
           "ramUsage": 64.5703125
         }
       ]
@@ -68,6 +68,15 @@
       ],
       "presetNames": [],
       "firmwares": [
+        {
+          "variationName": "directWired4withEncoder",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "testbed_directWired4withEncoder.hex",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-05-20T11:58:10.398Z",
+          "romUsage": 48.47412109375,
+          "ramUsage": 62.5390625
+        },
         {
           "variationName": "splitKeyboardWithI2c",
           "targetDevice": "rp2040",
@@ -85,6 +94,15 @@
           "buildTimestamp": "2021-05-16T19:01:10.820Z",
           "romUsage": 3.43,
           "ramUsage": 5.35
+        },
+        {
+          "variationName": "withLcd_atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "testbed_withLcd_atmega.hex",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-05-20T11:58:19.545Z",
+          "romUsage": 56.31103515625,
+          "ramUsage": 64.4140625
         }
       ]
     },
@@ -101,9 +119,9 @@
           "variationName": "promicro_atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "4x3pad_promicro_atmega.hex",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-05-16T19:01:12.233Z",
-          "romUsage": 47.833251953125,
+          "buildRevision": 7,
+          "buildTimestamp": "2021-05-20T11:58:23.400Z",
+          "romUsage": 47.54638671875,
           "ramUsage": 63.16406249999999
         },
         {
