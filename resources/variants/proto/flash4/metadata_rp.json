@@ -1,0 +1,16 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-05-21T01:48:25.702Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 2,
+  "configParametersRevision": 1,
+  "flashUsage": 3.16,
+  "ramUsage": 4.96,
+  "firmwareFileSize": 132608,
+  "firmwareBinaryFileMD5": "27de92196b094d61828818faa8fdf399",
+  "variationName": "rp",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "flash4_rp.uf2"
+}
