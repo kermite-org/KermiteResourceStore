@@ -1,0 +1,16 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-05-22T07:22:17.906Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 2,
+  "configParametersRevision": 1,
+  "flashUsage": 3.48,
+  "ramUsage": 5.44,
+  "firmwareFileSize": 145920,
+  "firmwareBinaryFileMD5": "bcf8ceae86709b4fb6fab5665ef5320c",
+  "variationName": "rp",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "mp2105_rp.uf2"
+}
