@@ -10,20 +10,16 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-05-23T08:04:22.588Z",
-    "filesRevision": 52
+    "updateAt": "2021-05-23T09:02:12.375Z",
+    "filesRevision": 53
   },
   "projects": [
     {
       "projectPath": "astelia",
       "projectId": "79xv6ZbA",
       "keyboardName": "Astelia",
-      "layoutNames": [
-        "default"
-      ],
-      "presetNames": [
-        "default"
-      ],
+      "layoutNames": [],
+      "presetNames": [],
       "firmwares": [
         {
           "variationName": "atmega",
@@ -40,13 +36,8 @@
       "projectPath": "csp/shiro",
       "projectId": "dx5kE9SU",
       "keyboardName": "Shiro",
-      "layoutNames": [
-        "default"
-      ],
-      "presetNames": [
-        "default",
-        "shiro_test1"
-      ],
+      "layoutNames": [],
+      "presetNames": [],
       "firmwares": [
         {
           "variationName": "atmega",
@@ -63,9 +54,7 @@
       "projectPath": "dev/testbed",
       "projectId": "RcYEeqNX",
       "keyboardName": "testbed",
-      "layoutNames": [
-        "4keys_with_encoder"
-      ],
+      "layoutNames": [],
       "presetNames": [],
       "firmwares": [
         {
@@ -110,9 +99,7 @@
       "projectPath": "proto/4x3pad",
       "projectId": "066MbLCf",
       "keyboardName": "4x3pad",
-      "layoutNames": [
-        "default"
-      ],
+      "layoutNames": [],
       "presetNames": [],
       "firmwares": [
         {
@@ -157,9 +144,7 @@
       "projectPath": "proto/flash4",
       "projectId": "LN9M6TPO",
       "keyboardName": "flash4",
-      "layoutNames": [
-        "default"
-      ],
+      "layoutNames": [],
       "presetNames": [],
       "firmwares": [
         {
@@ -177,11 +162,7 @@
       "projectPath": "proto/minivers",
       "projectId": "Di6V4KvF",
       "keyboardName": "Minivers",
-      "layoutNames": [
-        "rev1",
-        "rev1_debug64",
-        "rev2"
-      ],
+      "layoutNames": [],
       "presetNames": [],
       "firmwares": [
         {
