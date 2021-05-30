@@ -1,0 +1,16 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-05-30T09:03:59.685Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 2,
+  "configParametersRevision": 2,
+  "flashUsage": 3.03,
+  "ramUsage": 4.96,
+  "firmwareFileSize": 127488,
+  "firmwareBinaryFileMD5": "00d903eff99e212f74b81d81aa8f5cc9",
+  "variationName": "encoderRp",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "testbed_encoderRp.uf2"
+}
