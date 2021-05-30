@@ -1,4 +1,16 @@
 {
-  "buildResult": "failure",
-  "releaseBuildRevision": 0
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-05-30T09:23:33.150Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 2,
+  "configParametersRevision": 2,
+  "flashUsage": 75.79,
+  "ramUsage": 88.16,
+  "firmwareFileSize": 69887,
+  "firmwareBinaryFileMD5": "bd4f3d6f3e029a2ceb4e887b48167e6b",
+  "variationName": "atmega",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "vsplit_atmega.hex"
 }
