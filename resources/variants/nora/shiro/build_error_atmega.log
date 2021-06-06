@@ -1,4 +1,4 @@
->make proto/minivers:rev1:build RELEASE_REVISION=5 IS_RESOURCE_ORIGIN_ONLINE=1
+>make nora/shiro:atmega:build RELEASE_REVISION=0 IS_RESOURCE_ORIGIN_ONLINE=1
 avr-size: invalid option -- 'C'
 Usage: avr-size [option(s)] [file(s)]
  Displays the sizes of sections inside binary files
@@ -14,5 +14,5 @@ Usage: avr-size [option(s)] [file(s)]
   -v        --version                 Display the program's version
 
 avr-size: supported targets: elf32-avr elf32-little elf32-big srec symbolsrec verilog tekhex binary ihex plugin
-make[1]: *** [workers/worker_atmega32u4.mk:100: build/proto/minivers/rev1/minivers_rev1.elf] Error 1
-make: *** [Makefile:67: proto/minivers:rev1:build] Error 2
+make[1]: *** [workers/worker_atmega32u4.mk:100: build/nora/shiro/atmega/shiro_atmega.elf] Error 1
+make: *** [Makefile:67: nora/shiro:atmega:build] Error 2

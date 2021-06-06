@@ -1,16 +1,5 @@
 {
-  "buildResult": "success",
+  "buildResult": "failure",
   "releaseBuildRevision": 1,
-  "buildTimestamp": "2021-05-30T09:23:29.241Z",
-  "storageFormatRevision": 6,
-  "messageProtocolRevision": 1,
-  "profileBinaryFormatRevision": 2,
-  "configParametersRevision": 2,
-  "flashUsage": 71.94,
-  "ramUsage": 78.44,
-  "firmwareFileSize": 66319,
-  "firmwareBinaryFileMD5": "c89c827d31f5f2236bb4c340c096d723",
-  "variationName": "atmega",
-  "targetDevice": "atmega32u4",
-  "firmwareFileName": "mp2105_atmega.hex"
+  "buildTimestamp": "2021-05-30T09:23:29.241Z"
 }

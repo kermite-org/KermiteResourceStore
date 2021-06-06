@@ -1,16 +1,5 @@
 {
-  "buildResult": "success",
+  "buildResult": "failure",
   "releaseBuildRevision": 1,
-  "buildTimestamp": "2021-05-30T09:23:23.411Z",
-  "storageFormatRevision": 6,
-  "messageProtocolRevision": 1,
-  "profileBinaryFormatRevision": 2,
-  "configParametersRevision": 2,
-  "flashUsage": 60.87,
-  "ramUsage": 64.65,
-  "firmwareFileSize": 56116,
-  "firmwareBinaryFileMD5": "6524dd9f5b40e6becc70dff2841d848f",
-  "variationName": "atmega",
-  "targetDevice": "atmega32u4",
-  "firmwareFileName": "flash4_atmega.hex"
+  "buildTimestamp": "2021-05-30T09:23:23.411Z"
 }

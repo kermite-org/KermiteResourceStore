@@ -1,16 +1,5 @@
 {
-  "buildResult": "success",
+  "buildResult": "failure",
   "releaseBuildRevision": 4,
-  "buildTimestamp": "2021-05-30T09:23:07.892Z",
-  "storageFormatRevision": 6,
-  "messageProtocolRevision": 1,
-  "profileBinaryFormatRevision": 2,
-  "configParametersRevision": 2,
-  "flashUsage": 58.52,
-  "ramUsage": 67.07,
-  "firmwareFileSize": 53952,
-  "firmwareBinaryFileMD5": "0edf3976dc43abffad07448d7f7f7986",
-  "variationName": "withLcd_atmega",
-  "targetDevice": "atmega32u4",
-  "firmwareFileName": "testbed_withLcd_atmega.hex"
+  "buildTimestamp": "2021-05-30T09:23:07.892Z"
 }
