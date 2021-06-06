@@ -1,7 +1,7 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 9,
+      "numSuccess": 18,
       "numTotal": 18
     },
     "environment": {
@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-06-06T00:25:18.223Z",
-    "filesRevision": 57
+    "updateAt": "2021-06-06T06:04:20.433Z",
+    "filesRevision": 58
   },
   "projects": [
     {
@@ -24,7 +24,17 @@
       "presetNames": [
         "default"
       ],
-      "firmwares": []
+      "firmwares": [
+        {
+          "variationName": "atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "astelia_atmega.hex",
+          "buildRevision": 11,
+          "buildTimestamp": "2021-06-06T06:03:31.831Z",
+          "romUsage": 50.35,
+          "ramUsage": 63.75
+        }
+      ]
     },
     {
       "projectPath": "dev/testbed",
@@ -35,6 +45,15 @@
       ],
       "presetNames": [],
       "firmwares": [
+        {
+          "variationName": "directWired4withEncoder",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "testbed_directWired4withEncoder.hex",
+          "buildRevision": 6,
+          "buildTimestamp": "2021-06-06T06:03:34.029Z",
+          "romUsage": 51.03,
+          "ramUsage": 62.23
+        },
         {
           "variationName": "encoderRp",
           "targetDevice": "rp2040",
@@ -61,6 +80,15 @@
           "buildTimestamp": "2021-06-06T00:24:46.229Z",
           "romUsage": 3.4,
           "ramUsage": 5.37
+        },
+        {
+          "variationName": "withLcd_atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "testbed_withLcd_atmega.hex",
+          "buildRevision": 5,
+          "buildTimestamp": "2021-06-06T06:03:45.593Z",
+          "romUsage": 59.71,
+          "ramUsage": 68.71
         }
       ]
     },
@@ -75,7 +103,17 @@
         "default",
         "shiro_test1"
       ],
-      "firmwares": []
+      "firmwares": [
+        {
+          "variationName": "atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "shiro_atmega.hex",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-06-06T06:03:49.319Z",
+          "romUsage": 50.28,
+          "ramUsage": 61.72
+        }
+      ]
     },
     {
       "projectPath": "proto/4x3pad",
@@ -86,6 +124,15 @@
       ],
       "presetNames": [],
       "firmwares": [
+        {
+          "variationName": "promicro_atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "4x3pad_promicro_atmega.hex",
+          "buildRevision": 11,
+          "buildTimestamp": "2021-06-06T06:03:51.527Z",
+          "romUsage": 50.35,
+          "ramUsage": 62.03
+        },
         {
           "variationName": "promicro_rp2040",
           "targetDevice": "rp2040",
@@ -125,6 +172,15 @@
       "presetNames": [],
       "firmwares": [
         {
+          "variationName": "atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "flash4_atmega.hex",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-06-06T06:04:06.863Z",
+          "romUsage": 59.88,
+          "ramUsage": 61.45
+        },
+        {
           "variationName": "rp",
           "targetDevice": "rp2040",
           "binaryFileName": "flash4_rp.uf2",
@@ -147,6 +203,15 @@
       "presetNames": [],
       "firmwares": [
         {
+          "variationName": "rev1",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "minivers_rev1.hex",
+          "buildRevision": 6,
+          "buildTimestamp": "2021-06-06T06:04:10.858Z",
+          "romUsage": 55.15,
+          "ramUsage": 69.1
+        },
+        {
           "variationName": "rev2_rp",
           "targetDevice": "rp2040",
           "binaryFileName": "minivers_rev2_rp.uf2",
@@ -167,6 +232,15 @@
       "presetNames": [],
       "firmwares": [
         {
+          "variationName": "atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "mp2105_atmega.hex",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-06-06T06:04:15.420Z",
+          "romUsage": 71.1,
+          "ramUsage": 70.23
+        },
+        {
           "variationName": "rp",
           "targetDevice": "rp2040",
           "binaryFileName": "mp2105_rp.uf2",
@@ -183,7 +257,17 @@
       "keyboardName": "vsplit",
       "layoutNames": [],
       "presetNames": [],
-      "firmwares": []
+      "firmwares": [
+        {
+          "variationName": "atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "vsplit_atmega.hex",
+          "buildRevision": 2,
+          "buildTimestamp": "2021-06-06T06:04:20.325Z",
+          "romUsage": 74.82,
+          "ramUsage": 74.88
+        }
+      ]
     }
   ]
 }

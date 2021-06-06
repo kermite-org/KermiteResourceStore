@@ -1,5 +1,16 @@
 {
-  "buildResult": "failure",
-  "releaseBuildRevision": 10,
-  "buildTimestamp": "2021-05-30T09:22:55.918Z"
+  "buildResult": "success",
+  "releaseBuildRevision": 11,
+  "buildTimestamp": "2021-06-06T06:03:31.831Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 3,
+  "configParametersRevision": 2,
+  "flashUsage": 50.35,
+  "ramUsage": 63.75,
+  "firmwareFileSize": 46442,
+  "firmwareBinaryFileMD5": "2348533be658da037ff3d7c1ab3837f9",
+  "variationName": "atmega",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "astelia_atmega.hex"
 }
