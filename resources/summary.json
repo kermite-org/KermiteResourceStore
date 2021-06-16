@@ -1,8 +1,8 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 23,
-      "numTotal": 23
+      "numSuccess": 7,
+      "numTotal": 7
     },
     "environment": {
       "OS": "Ubuntu 20.04.2 LTS",
@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-06-16T12:59:18.055Z",
-    "filesRevision": 59
+    "updateAt": "2021-06-16T14:39:16.670Z",
+    "filesRevision": 60
   },
   "projects": [
     {
@@ -33,80 +33,6 @@
           "buildTimestamp": "2021-06-16T12:58:06.644Z",
           "romUsage": 51.9,
           "ramUsage": 59.88
-        }
-      ]
-    },
-    {
-      "projectPath": "dev/testbed",
-      "projectId": "RcYEeqNX",
-      "keyboardName": "testbed",
-      "layoutNames": [
-        "4keys_with_encoder"
-      ],
-      "presetNames": [],
-      "firmwares": [
-        {
-          "variationName": "asymmetrical_split_direct",
-          "targetDevice": "atmega32u4",
-          "binaryFileName": "testbed_asymmetrical_split_direct.hex",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-06-16T12:58:09.228Z",
-          "romUsage": 58.51,
-          "ramUsage": 70.63
-        },
-        {
-          "variationName": "directWired4withEncoder",
-          "targetDevice": "atmega32u4",
-          "binaryFileName": "testbed_directWired4withEncoder.hex",
-          "buildRevision": 7,
-          "buildTimestamp": "2021-06-16T12:58:11.548Z",
-          "romUsage": 51.59,
-          "ramUsage": 60.16
-        },
-        {
-          "variationName": "encoderRp",
-          "targetDevice": "rp2040",
-          "binaryFileName": "testbed_encoderRp.uf2",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-06-16T12:58:18.879Z",
-          "romUsage": 3.05,
-          "ramUsage": 4.97
-        },
-        {
-          "variationName": "splitKeyboardWithI2c",
-          "targetDevice": "rp2040",
-          "binaryFileName": "testbed_splitKeyboardWithI2c.uf2",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-06-16T12:58:24.331Z",
-          "romUsage": 3.21,
-          "ramUsage": 5.02
-        },
-        {
-          "variationName": "split_with_encoders",
-          "targetDevice": "atmega32u4",
-          "binaryFileName": "testbed_split_with_encoders.hex",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-06-16T12:58:21.479Z",
-          "romUsage": 59.64,
-          "ramUsage": 70.86
-        },
-        {
-          "variationName": "withLcd",
-          "targetDevice": "rp2040",
-          "binaryFileName": "testbed_withLcd.uf2",
-          "buildRevision": 7,
-          "buildTimestamp": "2021-06-16T12:58:30.182Z",
-          "romUsage": 3.4,
-          "ramUsage": 5.38
-        },
-        {
-          "variationName": "withLcd_atmega",
-          "targetDevice": "atmega32u4",
-          "binaryFileName": "testbed_withLcd_atmega.hex",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-06-16T12:58:27.208Z",
-          "romUsage": 59.9,
-          "ramUsage": 66.8
         }
       ]
     },
@@ -148,109 +74,6 @@
           "buildTimestamp": "2021-06-16T12:58:35.042Z",
           "romUsage": 51.28,
           "ramUsage": 58.44
-        }
-      ]
-    },
-    {
-      "projectPath": "proto/4x3pad",
-      "projectId": "066MbLCf",
-      "keyboardName": "4x3pad",
-      "layoutNames": [
-        "default"
-      ],
-      "presetNames": [],
-      "firmwares": [
-        {
-          "variationName": "promicro_atmega",
-          "targetDevice": "atmega32u4",
-          "binaryFileName": "4x3pad_promicro_atmega.hex",
-          "buildRevision": 12,
-          "buildTimestamp": "2021-06-16T12:58:37.110Z",
-          "romUsage": 52,
-          "ramUsage": 59.73
-        },
-        {
-          "variationName": "promicro_rp2040",
-          "targetDevice": "rp2040",
-          "binaryFileName": "4x3pad_promicro_rp2040.uf2",
-          "buildRevision": 14,
-          "buildTimestamp": "2021-06-16T12:58:47.682Z",
-          "romUsage": 3.12,
-          "ramUsage": 4.97
-        },
-        {
-          "variationName": "rpi_pico",
-          "targetDevice": "rp2040",
-          "binaryFileName": "4x3pad_rpi_pico.uf2",
-          "buildRevision": 15,
-          "buildTimestamp": "2021-06-16T12:58:52.818Z",
-          "romUsage": 3.05,
-          "ramUsage": 4.97
-        },
-        {
-          "variationName": "rpi_pico_split",
-          "targetDevice": "rp2040",
-          "binaryFileName": "4x3pad_rpi_pico_split.uf2",
-          "buildRevision": 10,
-          "buildTimestamp": "2021-06-16T12:58:50.449Z",
-          "romUsage": 3.28,
-          "ramUsage": 5.02
-        }
-      ]
-    },
-    {
-      "projectPath": "proto/dw4s",
-      "projectId": "ZnVSZMbi",
-      "keyboardName": "dw4s",
-      "layoutNames": [],
-      "presetNames": [],
-      "firmwares": [
-        {
-          "variationName": "atmega",
-          "targetDevice": "atmega32u4",
-          "binaryFileName": "dw4s_atmega.hex",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-06-16T12:58:55.641Z",
-          "romUsage": 77.15,
-          "ramUsage": 78.75
-        },
-        {
-          "variationName": "rp",
-          "targetDevice": "rp2040",
-          "binaryFileName": "dw4s_rp.uf2",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-06-16T12:58:59.091Z",
-          "romUsage": 3.72,
-          "ramUsage": 5.44
-        }
-      ]
-    },
-    {
-      "projectPath": "proto/flash4",
-      "projectId": "LN9M6TPO",
-      "keyboardName": "flash4",
-      "layoutNames": [
-        "default"
-      ],
-      "presetNames": [],
-      "firmwares": [
-        {
-          "variationName": "atmega",
-          "targetDevice": "atmega32u4",
-          "binaryFileName": "flash4_atmega.hex",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-06-16T12:59:01.449Z",
-          "romUsage": 61.68,
-          "ramUsage": 59.45
-        },
-        {
-          "variationName": "rp",
-          "targetDevice": "rp2040",
-          "binaryFileName": "flash4_rp.uf2",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-06-16T12:59:04.228Z",
-          "romUsage": 3.17,
-          "ramUsage": 4.97
         }
       ]
     },
@@ -311,24 +134,6 @@
           "buildTimestamp": "2021-06-16T12:59:15.126Z",
           "romUsage": 3.55,
           "ramUsage": 5.39
-        }
-      ]
-    },
-    {
-      "projectPath": "proto/vsplit",
-      "projectId": "mVjx4qkV",
-      "keyboardName": "vsplit",
-      "layoutNames": [],
-      "presetNames": [],
-      "firmwares": [
-        {
-          "variationName": "atmega",
-          "targetDevice": "atmega32u4",
-          "binaryFileName": "vsplit_atmega.hex",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-06-16T12:59:17.952Z",
-          "romUsage": 78.53,
-          "ramUsage": 80.98
         }
       ]
     }
