@@ -1,0 +1,16 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-06-16T12:58:59.091Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 3,
+  "configParametersRevision": 2,
+  "flashUsage": 3.72,
+  "ramUsage": 5.44,
+  "firmwareFileSize": 156160,
+  "firmwareBinaryFileMD5": "912adc1b2c58c46f9acb65f472e988b5",
+  "variationName": "rp",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "dw4s_rp.uf2"
+}

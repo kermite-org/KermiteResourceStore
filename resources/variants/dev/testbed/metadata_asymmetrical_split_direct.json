@@ -1,0 +1,16 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-06-16T12:58:09.228Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 3,
+  "configParametersRevision": 2,
+  "flashUsage": 58.51,
+  "ramUsage": 70.63,
+  "firmwareFileSize": 53944,
+  "firmwareBinaryFileMD5": "4764bb0115b8f01eaa88e61ceeb01205",
+  "variationName": "asymmetrical_split_direct",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "testbed_asymmetrical_split_direct.hex"
+}

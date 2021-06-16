@@ -1,0 +1,16 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-06-16T12:58:21.479Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 1,
+  "profileBinaryFormatRevision": 3,
+  "configParametersRevision": 2,
+  "flashUsage": 59.64,
+  "ramUsage": 70.86,
+  "firmwareFileSize": 54996,
+  "firmwareBinaryFileMD5": "cc07af5fa38cd92f9fbc880179f95eed",
+  "variationName": "split_with_encoders",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "testbed_split_with_encoders.hex"
+}
