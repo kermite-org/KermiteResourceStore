@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2021-06-16T14:39:16.597Z",
-  "filesRevision": 61,
+  "updatedAt": "2021-06-19T10:21:51.106Z",
+  "filesRevision": 62,
   "files": {
     "variants/astelia/astelia_atmega.hex": "0f568421b2375caf4771070a331092fb",
     "variants/astelia/default.layout.json": "1d740d2a4fb5d46776709383c4309e2f",
     "variants/astelia/default.profile.json": "f719d0fcc6df2e685d64de00f604d99d",
     "variants/astelia/metadata_atmega.json": "e2b2faad01feb88f30102c4e1bbdd790",
     "variants/astelia/project.json": "a33f5468b87ff78b96c6910476dcb45f",
-    "variants/nora/crkbd/crkbd_atmega.hex": "6b9c23f29ac39a5c01c7ff6bfffa5695",
-    "variants/nora/crkbd/metadata_atmega.json": "4c541e5c8c65c3021155d11483783e63",
+    "variants/nora/crkbd/crkbd_atmega.hex": "fa8e539b16259572d13972ed2294258f",
+    "variants/nora/crkbd/metadata_atmega.json": "d95a1b98279967ad88ecdc8e6ce95bfb",
     "variants/nora/crkbd/project.json": "5e10ddcbbf5570a808bd499be7414c06",
     "variants/nora/shiro/default.layout.json": "d9baaf6000e2026cd0988d72b8d3562b",
     "variants/nora/shiro/default.profile.json": "0e91abf4edb17bfdd8cc8c088f03d39f",

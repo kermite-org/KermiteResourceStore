@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-06-16T14:39:16.670Z",
-    "filesRevision": 60
+    "updateAt": "2021-06-19T10:21:51.167Z",
+    "filesRevision": 61
   },
   "projects": [
     {
@@ -47,10 +47,10 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "crkbd_atmega.hex",
-          "buildRevision": 1,
-          "buildTimestamp": "2021-06-16T12:58:32.989Z",
-          "romUsage": 77.7,
-          "ramUsage": 78.05
+          "buildRevision": 2,
+          "buildTimestamp": "2021-06-19T10:21:31.330Z",
+          "romUsage": 77.87,
+          "ramUsage": 79.92
         }
       ]
     },
