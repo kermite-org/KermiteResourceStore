@@ -1,7 +1,7 @@
 {
   "buildResult": "success",
-  "releaseBuildRevision": 7,
-  "buildTimestamp": "2021-06-16T12:59:09.467Z",
+  "releaseBuildRevision": 8,
+  "buildTimestamp": "2021-06-23T13:27:41.521Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 1,
   "profileBinaryFormatRevision": 3,
@@ -9,7 +9,7 @@
   "flashUsage": 3.3,
   "ramUsage": 5.03,
   "firmwareFileSize": 138752,
-  "firmwareBinaryFileMD5": "d09e41ca06c8941449c43b2a724ba851",
+  "firmwareBinaryFileMD5": "8c63e315c00fa37da10d5db7d661d542",
   "variationName": "rev2_rp",
   "targetDevice": "rp2040",
   "firmwareFileName": "minivers_rev2_rp.uf2"
