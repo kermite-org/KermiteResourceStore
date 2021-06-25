@@ -1,16 +1,5 @@
 {
-  "buildResult": "success",
+  "buildResult": "failure",
   "releaseBuildRevision": 3,
-  "buildTimestamp": "2021-06-23T13:27:24.155Z",
-  "storageFormatRevision": 6,
-  "messageProtocolRevision": 1,
-  "profileBinaryFormatRevision": 3,
-  "configParametersRevision": 2,
-  "flashUsage": 78.02,
-  "ramUsage": 80.47,
-  "firmwareFileSize": 71932,
-  "firmwareBinaryFileMD5": "bb7ae956ac28be9799290ab5a076b3f2",
-  "variationName": "atmega",
-  "targetDevice": "atmega32u4",
-  "firmwareFileName": "crkbd_atmega.hex"
+  "buildTimestamp": "2021-06-23T13:27:24.155Z"
 }
