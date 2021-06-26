@@ -1,20 +1,12 @@
 {
-  "updatedAt": "2021-06-26T05:17:40.661Z",
-  "filesRevision": 65,
+  "updatedAt": "2021-06-26T12:52:33.249Z",
+  "filesRevision": 66,
   "files": {
     "variants/astelia/astelia_atmega.hex": "f5593fa5a90f0ae027a1bc3dcb3ea18e",
     "variants/astelia/default.layout.json": "1d740d2a4fb5d46776709383c4309e2f",
     "variants/astelia/default.profile.json": "f719d0fcc6df2e685d64de00f604d99d",
     "variants/astelia/metadata_atmega.json": "678e6aac7a4a1eeb17e6ff3e88e2a397",
     "variants/astelia/project.json": "a33f5468b87ff78b96c6910476dcb45f",
-    "variants/nora/crkbd/crkbd_atmega.hex": "4959e014ae71b1f44083147eb0a8aec9",
-    "variants/nora/crkbd/default.layout.json": "892d4e0951343bd11688ecff35bb8beb",
-    "variants/nora/crkbd/metadata_atmega.json": "fa2734442b9dbfc04449fb7be6642f02",
-    "variants/nora/crkbd/project.json": "5e10ddcbbf5570a808bd499be7414c06",
-    "variants/nora/shiro/default.layout.json": "d9baaf6000e2026cd0988d72b8d3562b",
-    "variants/nora/shiro/metadata_atmega.json": "b25f208a41a81bfa72a214facd782252",
-    "variants/nora/shiro/project.json": "214ef0108dd3bd3b94036682ede7cacf",
-    "variants/nora/shiro/shiro_atmega.hex": "70d3518a767464d7bfb9bd72397ace93",
     "variants/proto/minivers/metadata_rev1.json": "9fa540e61065d5ce0a5be60f16907e0a",
     "variants/proto/minivers/metadata_rev2_rp.json": "5f8f4a14a2ab56f07f55b1e321c72407",
     "variants/proto/minivers/minivers_rev1.hex": "de93cac21899aa42282bfc27066c4aa4",
@@ -27,6 +19,10 @@
     "variants/proto/mp2105/metadata_rp.json": "da00f2c8cfa4d9f0cbb0071da26b2c43",
     "variants/proto/mp2105/mp2105_atmega.hex": "9a108c449f3d53827e4d06f64460cc61",
     "variants/proto/mp2105/mp2105_rp.uf2": "75636cf39e30866c146836c81a0b65cc",
-    "variants/proto/mp2105/project.json": "ddef7d20b2a3fa89a9f0cc9de39e9c03"
+    "variants/proto/mp2105/project.json": "ddef7d20b2a3fa89a9f0cc9de39e9c03",
+    "variants/shiro/default.layout.json": "d9baaf6000e2026cd0988d72b8d3562b",
+    "variants/shiro/metadata_atmega.json": "d1fa157e6a33b4ef216f785469057cbe",
+    "variants/shiro/project.json": "214ef0108dd3bd3b94036682ede7cacf",
+    "variants/shiro/shiro_atmega.hex": "af18d8ca8cfbf4b8c77441c0f6864c4d"
   }
 }
