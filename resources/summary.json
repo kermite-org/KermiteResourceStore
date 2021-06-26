@@ -1,8 +1,8 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 4,
-      "numTotal": 4
+      "numSuccess": 6,
+      "numTotal": 6
     },
     "environment": {
       "OS": "Ubuntu 20.04.2 LTS",
@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-06-26T14:33:53.460Z",
-    "filesRevision": 66
+    "updateAt": "2021-06-26T15:20:03.889Z",
+    "filesRevision": 67
   },
   "projects": [
     {
@@ -33,6 +33,36 @@
           "buildTimestamp": "2021-06-23T13:27:21.405Z",
           "romUsage": 52.04,
           "ramUsage": 60.43
+        }
+      ]
+    },
+    {
+      "projectPath": "proto/minivers",
+      "projectId": "Di6V4KvF",
+      "keyboardName": "Minivers",
+      "layoutNames": [
+        "rev1",
+        "rev2"
+      ],
+      "presetNames": [],
+      "firmwares": [
+        {
+          "variationName": "rev1",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "minivers_rev1.hex",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-06-26T15:19:43.041Z",
+          "romUsage": 59.38,
+          "ramUsage": 72.23
+        },
+        {
+          "variationName": "rev2_rp",
+          "targetDevice": "rp2040",
+          "binaryFileName": "minivers_rev2_rp.uf2",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-06-26T15:19:59.189Z",
+          "romUsage": 3.3,
+          "ramUsage": 5.03
         }
       ]
     },
