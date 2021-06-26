@@ -1,6 +1,0 @@
->make proto/mp2105:atmega:build RELEASE_REVISION=4 IS_RESOURCE_ORIGIN_ONLINE=1
-src/modules/km0/device/atmega/neoPixelCore.S:7:2: error: #error KM0_ATMEGA_NEOPIXELCORE__PIN_RGBLED is not defined
-    7 | #error KM0_ATMEGA_NEOPIXELCORE__PIN_RGBLED is not defined
-      |  ^~~~~
-make[1]: *** [workers/worker_atmega32u4.mk:111: build/proto/mp2105/atmega/obj/src/modules/km0/device/atmega/neoPixelCore.o] Error 1
-make: *** [Makefile:67: proto/mp2105:atmega:build] Error 2

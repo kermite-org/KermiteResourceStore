@@ -1,7 +1,7 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 5,
+      "numSuccess": 7,
       "numTotal": 7
     },
     "environment": {
@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-06-25T14:57:51.574Z",
-    "filesRevision": 63
+    "updateAt": "2021-06-26T05:17:40.730Z",
+    "filesRevision": 64
   },
   "projects": [
     {
@@ -44,7 +44,17 @@
         "default"
       ],
       "presetNames": [],
-      "firmwares": []
+      "firmwares": [
+        {
+          "variationName": "atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "crkbd_atmega.hex",
+          "buildRevision": 4,
+          "buildTimestamp": "2021-06-26T05:17:15.724Z",
+          "romUsage": 77.85,
+          "ramUsage": 78.59
+        }
+      ]
     },
     {
       "projectPath": "nora/shiro",
@@ -105,6 +115,15 @@
       ],
       "presetNames": [],
       "firmwares": [
+        {
+          "variationName": "atmega",
+          "targetDevice": "atmega32u4",
+          "binaryFileName": "mp2105_atmega.hex",
+          "buildRevision": 5,
+          "buildTimestamp": "2021-06-26T05:17:38.852Z",
+          "romUsage": 72.36,
+          "ramUsage": 68.16
+        },
         {
           "variationName": "rp",
           "targetDevice": "rp2040",
