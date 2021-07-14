@@ -1,8 +1,8 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 6,
-      "numTotal": 6
+      "numSuccess": 7,
+      "numTotal": 7
     },
     "environment": {
       "OS": "Ubuntu 20.04.2 LTS",
@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-07-12T14:05:49.768Z",
-    "filesRevision": 70
+    "updateAt": "2021-07-14T21:16:09.969Z",
+    "filesRevision": 71
   },
   "projects": [
     {
@@ -29,10 +29,30 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "astelia_atmega.hex",
-          "buildRevision": 16,
-          "buildTimestamp": "2021-07-12T14:05:26.047Z",
+          "buildRevision": 17,
+          "buildTimestamp": "2021-07-14T21:15:41.839Z",
           "romUsage": 53.96,
           "ramUsage": 62.07
+        }
+      ]
+    },
+    {
+      "projectPath": "proto/km60",
+      "projectId": "K3e89XcG",
+      "keyboardName": "km60",
+      "layoutNames": [
+        "space275div3"
+      ],
+      "presetNames": [],
+      "firmwares": [
+        {
+          "variationName": "proto0",
+          "targetDevice": "rp2040",
+          "binaryFileName": "km60_proto0.uf2",
+          "buildRevision": 1,
+          "buildTimestamp": "2021-07-14T21:15:57.070Z",
+          "romUsage": 3.11,
+          "ramUsage": 4.96
         }
       ]
     },
@@ -50,17 +70,17 @@
           "variationName": "rev1",
           "targetDevice": "atmega32u4",
           "binaryFileName": "minivers_rev1.hex",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-07-12T14:05:28.309Z",
-          "romUsage": 62.23,
+          "buildRevision": 5,
+          "buildTimestamp": "2021-07-14T21:15:59.286Z",
+          "romUsage": 62.22,
           "ramUsage": 74.22
         },
         {
           "variationName": "rev2_rp",
           "targetDevice": "rp2040",
           "binaryFileName": "minivers_rev2_rp.uf2",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-07-12T14:05:42.156Z",
+          "buildRevision": 5,
+          "buildTimestamp": "2021-07-14T21:16:02.127Z",
           "romUsage": 3.32,
           "ramUsage": 5.02
         }
@@ -79,8 +99,8 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "mp2105_atmega.hex",
-          "buildRevision": 8,
-          "buildTimestamp": "2021-07-12T14:05:44.647Z",
+          "buildRevision": 9,
+          "buildTimestamp": "2021-07-14T21:16:04.638Z",
           "romUsage": 76.67,
           "ramUsage": 69.84
         },
@@ -88,8 +108,8 @@
           "variationName": "rp",
           "targetDevice": "rp2040",
           "binaryFileName": "mp2105_rp.uf2",
-          "buildRevision": 9,
-          "buildTimestamp": "2021-07-12T14:05:47.765Z",
+          "buildRevision": 10,
+          "buildTimestamp": "2021-07-14T21:16:07.979Z",
           "romUsage": 3.58,
           "ramUsage": 5.43
         }
@@ -108,9 +128,9 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "shiro_atmega.hex",
-          "buildRevision": 4,
-          "buildTimestamp": "2021-07-12T14:05:49.694Z",
-          "romUsage": 53.35,
+          "buildRevision": 5,
+          "buildTimestamp": "2021-07-14T21:16:09.894Z",
+          "romUsage": 53.34,
           "ramUsage": 60.62
         }
       ]
