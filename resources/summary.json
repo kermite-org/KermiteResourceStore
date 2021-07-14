@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-07-14T21:16:09.969Z",
-    "filesRevision": 71
+    "updateAt": "2021-07-14T21:31:55.846Z",
+    "filesRevision": 72
   },
   "projects": [
     {
@@ -41,7 +41,8 @@
       "projectId": "K3e89XcG",
       "keyboardName": "km60",
       "layoutNames": [
-        "space275div3"
+        "proto0_space275div3",
+        "proto0_us_default"
       ],
       "presetNames": [],
       "firmwares": [

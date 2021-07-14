@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2021-07-14T21:16:09.907Z",
-  "filesRevision": 72,
+  "updatedAt": "2021-07-14T21:31:55.780Z",
+  "filesRevision": 73,
   "files": {
     "variants/astelia/astelia_atmega.hex": "34fc455de42d0e0f36698f66068a1489",
     "variants/astelia/default.layout.json": "1d740d2a4fb5d46776709383c4309e2f",
@@ -10,7 +10,8 @@
     "variants/proto/km60/km60_proto0.uf2": "6f49cbfb18eca96e5a2d1123708c6fa8",
     "variants/proto/km60/metadata_proto0.json": "48b561485a35860947aafdbe1da19f9a",
     "variants/proto/km60/project.json": "c4a81770fe11ed8402da622a431ef5c4",
-    "variants/proto/km60/space275div3.layout.json": "dc539535200676b34ac00d3fa79da830",
+    "variants/proto/km60/proto0_space275div3.layout.json": "dc539535200676b34ac00d3fa79da830",
+    "variants/proto/km60/proto0_us_default.layout.json": "282b847bc38f723f39b5bf6f3a740c2c",
     "variants/proto/minivers/metadata_rev1.json": "a227c79847df314da0ee4e7b7717e141",
     "variants/proto/minivers/metadata_rev2_rp.json": "7ba70c39235acac07289869153c1d19a",
     "variants/proto/minivers/minivers_rev1.hex": "12fedb3120808f47b05ec655370e9473",
