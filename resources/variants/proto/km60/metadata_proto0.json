@@ -1,7 +1,7 @@
 {
   "buildResult": "success",
-  "releaseBuildRevision": 1,
-  "buildTimestamp": "2021-07-14T21:15:57.070Z",
+  "releaseBuildRevision": 2,
+  "buildTimestamp": "2021-07-17T05:12:07.679Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 2,
   "profileBinaryFormatRevision": 4,
@@ -9,7 +9,7 @@
   "flashUsage": 3.11,
   "ramUsage": 4.96,
   "firmwareFileSize": 130560,
-  "firmwareBinaryFileMD5": "6f49cbfb18eca96e5a2d1123708c6fa8",
+  "firmwareBinaryFileMD5": "d80f24d463a6d1e7d503436fe6845d65",
   "variationName": "proto0",
   "targetDevice": "rp2040",
   "firmwareFileName": "km60_proto0.uf2"
