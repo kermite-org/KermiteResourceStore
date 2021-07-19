@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Kermite Project ID Generator</title>
-  </head>
-  <body>
-    <style>
-      .root{
-        padding: 0 10px;
-      }
-    </style>
-    <div class='root'>
-      <h3>Kermite Project ID Generator</h3>
-      <div>
-        <input type='text' id='domInput' readonly="true"></input>
-        <button id='domButton'>Generate</button>
-      </div>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Kermite Project ID Generator</title>
+</head>
+
+<body>
+  <style>
+    .root {
+      padding: 0 10px;
+    }
+  </style>
+  <div class='root'>
+    <h3>Kermite Project ID Generator</h3>
+    <div>
+      <input type='text' id='domInput' readonly="true"></input>
+      <button id='domButton'>Generate</button>
     </div>
-    <script>
-      window.addEventListener('load', () => {
-        fetch('../resources/summary.json')
+  </div>
+  <script>
+    window.addEventListener('load', () => {
+      fetch('../resources/summary.json')
         .then(res => res.json())
         .then(obj => {
           const existingBreedIds = obj.projects.map(project => project.projectId)
 
           const sourceChars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
 
-          function generateBreedId(){
-            for(let i = 0; i < 100; i++){
-              const breedId = Array(8).fill(undefined).map(() => {
+          function generateBreedId() {
+            for (let i = 0; i < 100; i++) {
+              const breedId = Array(6).fill(undefined).map(() => {
                 const index = Math.random() * sourceChars.length >> 0;
                 return sourceChars.charAt(index)
               }).join('')
-              if(existingBreedIds.indexOf(breedId) == -1){
+              if (existingBreedIds.indexOf(breedId) == -1) {
                 return breedId;
               }
             }
@@ -43,13 +45,13 @@
           const elButton = document.querySelector('#domButton')
           elButton.addEventListener('click', () => {
             const newBreedId = generateBreedId();
-            if(newBreedId){
+            if (newBreedId) {
               elInput.value = newBreedId;
             }
           })
         })
-      })
-    </script>
-  </body>
-</html>
+    })
+  </script>
+</body>
 
+</html>
