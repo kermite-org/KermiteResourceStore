@@ -10,13 +10,13 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-07-17T05:12:22.903Z",
-    "filesRevision": 73
+    "updateAt": "2021-07-19T12:09:57.022Z",
+    "filesRevision": 74
   },
   "projects": [
     {
       "projectPath": "astelia",
-      "projectId": "79xv6ZbA",
+      "projectId": "79xv6Z",
       "keyboardName": "Astelia",
       "layoutNames": [
         "default"
@@ -29,16 +29,16 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "astelia_atmega.hex",
-          "buildRevision": 18,
-          "buildTimestamp": "2021-07-17T05:11:52.514Z",
-          "romUsage": 54.15,
-          "ramUsage": 62.38
+          "buildRevision": 19,
+          "buildTimestamp": "2021-07-19T12:09:29.808Z",
+          "romUsage": 54.16,
+          "ramUsage": 62.23
         }
       ]
     },
     {
       "projectPath": "proto/km60",
-      "projectId": "K3e89XcG",
+      "projectId": "K3e89X",
       "keyboardName": "km60",
       "layoutNames": [
         "proto0_space275div3",
@@ -50,8 +50,8 @@
           "variationName": "proto0",
           "targetDevice": "rp2040",
           "binaryFileName": "km60_proto0.uf2",
-          "buildRevision": 2,
-          "buildTimestamp": "2021-07-17T05:12:07.679Z",
+          "buildRevision": 3,
+          "buildTimestamp": "2021-07-19T12:09:43.577Z",
           "romUsage": 3.11,
           "ramUsage": 4.96
         }
@@ -59,7 +59,7 @@
     },
     {
       "projectPath": "proto/minivers",
-      "projectId": "Di6V4KvF",
+      "projectId": "Di6V4K",
       "keyboardName": "Minivers",
       "layoutNames": [
         "rev1",
@@ -71,17 +71,17 @@
           "variationName": "rev1",
           "targetDevice": "atmega32u4",
           "binaryFileName": "minivers_rev1.hex",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-07-17T05:12:10.346Z",
-          "romUsage": 62.41,
-          "ramUsage": 74.61
+          "buildRevision": 7,
+          "buildTimestamp": "2021-07-19T12:09:45.964Z",
+          "romUsage": 62.43,
+          "ramUsage": 74.45
         },
         {
           "variationName": "rev2_rp",
           "targetDevice": "rp2040",
           "binaryFileName": "minivers_rev2_rp.uf2",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-07-17T05:12:13.664Z",
+          "buildRevision": 7,
+          "buildTimestamp": "2021-07-19T12:09:48.882Z",
           "romUsage": 3.33,
           "ramUsage": 5.02
         }
@@ -89,7 +89,7 @@
     },
     {
       "projectPath": "proto/mp2105",
-      "projectId": "2xUWcB80",
+      "projectId": "2xUWcB",
       "keyboardName": "mp2105",
       "layoutNames": [
         "default"
@@ -100,17 +100,17 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "mp2105_atmega.hex",
-          "buildRevision": 10,
-          "buildTimestamp": "2021-07-17T05:12:16.593Z",
-          "romUsage": 76.86,
-          "ramUsage": 70.23
+          "buildRevision": 11,
+          "buildTimestamp": "2021-07-19T12:09:51.496Z",
+          "romUsage": 76.87,
+          "ramUsage": 70
         },
         {
           "variationName": "rp",
           "targetDevice": "rp2040",
           "binaryFileName": "mp2105_rp.uf2",
-          "buildRevision": 11,
-          "buildTimestamp": "2021-07-17T05:12:20.525Z",
+          "buildRevision": 12,
+          "buildTimestamp": "2021-07-19T12:09:54.678Z",
           "romUsage": 3.58,
           "ramUsage": 5.43
         }
@@ -118,7 +118,7 @@
     },
     {
       "projectPath": "shiro",
-      "projectId": "dx5kE9SU",
+      "projectId": "dx5kE9",
       "keyboardName": "Shiro",
       "layoutNames": [
         "default"
@@ -129,10 +129,10 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "shiro_atmega.hex",
-          "buildRevision": 6,
-          "buildTimestamp": "2021-07-17T05:12:22.811Z",
-          "romUsage": 53.54,
-          "ramUsage": 61.02
+          "buildRevision": 7,
+          "buildTimestamp": "2021-07-19T12:09:56.942Z",
+          "romUsage": 53.56,
+          "ramUsage": 60.94
         }
       ]
     }
