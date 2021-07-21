@@ -1,0 +1,16 @@
+{
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-07-21T21:27:42.944Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 3,
+  "profileBinaryFormatRevision": 4,
+  "configParametersRevision": 5,
+  "flashUsage": 3.18,
+  "ramUsage": 4.97,
+  "firmwareFileSize": 133632,
+  "firmwareBinaryFileMD5": "e0a2401c9ec6909f89cda39aa0440730",
+  "variationName": "rp",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "km71a_rp.uf2"
+}
