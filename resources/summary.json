@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-07-23T21:42:43.771Z",
-    "filesRevision": 77
+    "updateAt": "2021-07-24T04:00:50.819Z",
+    "filesRevision": 78
   },
   "projects": [
     {
@@ -70,9 +70,9 @@
           "variationName": "rp",
           "targetDevice": "rp2040",
           "binaryFileName": "km71a_rp.uf2",
-          "buildRevision": 2,
-          "buildTimestamp": "2021-07-23T21:42:27.742Z",
-          "romUsage": 3.23,
+          "buildRevision": 3,
+          "buildTimestamp": "2021-07-24T04:00:43.740Z",
+          "romUsage": 3.24,
           "ramUsage": 5.04
         }
       ]
