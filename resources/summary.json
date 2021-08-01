@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-07-24T04:00:50.819Z",
-    "filesRevision": 78
+    "updateAt": "2021-08-01T04:25:25.662Z",
+    "filesRevision": 79
   },
   "projects": [
     {
@@ -29,10 +29,10 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "astelia_atmega.hex",
-          "buildRevision": 21,
-          "buildTimestamp": "2021-07-23T21:42:08.780Z",
-          "romUsage": 56.09,
-          "ramUsage": 69.77
+          "buildRevision": 22,
+          "buildTimestamp": "2021-08-01T04:24:50.423Z",
+          "romUsage": 56.17,
+          "ramUsage": 69.92
         }
       ]
     },
@@ -50,10 +50,10 @@
           "variationName": "proto0",
           "targetDevice": "rp2040",
           "binaryFileName": "km60_proto0.uf2",
-          "buildRevision": 5,
-          "buildTimestamp": "2021-07-23T21:42:24.517Z",
+          "buildRevision": 6,
+          "buildTimestamp": "2021-08-01T04:25:09.470Z",
           "romUsage": 3.17,
-          "ramUsage": 5.03
+          "ramUsage": 5.04
         }
       ]
     },
@@ -70,8 +70,8 @@
           "variationName": "rp",
           "targetDevice": "rp2040",
           "binaryFileName": "km71a_rp.uf2",
-          "buildRevision": 3,
-          "buildTimestamp": "2021-07-24T04:00:43.740Z",
+          "buildRevision": 4,
+          "buildTimestamp": "2021-08-01T04:25:12.982Z",
           "romUsage": 3.24,
           "ramUsage": 5.04
         }
@@ -120,17 +120,17 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "mp2105_atmega.hex",
-          "buildRevision": 13,
-          "buildTimestamp": "2021-07-23T21:42:37.388Z",
-          "romUsage": 78.78,
-          "ramUsage": 77.46
+          "buildRevision": 14,
+          "buildTimestamp": "2021-08-01T04:25:19.277Z",
+          "romUsage": 78.86,
+          "ramUsage": 77.62
         },
         {
           "variationName": "rp",
           "targetDevice": "rp2040",
           "binaryFileName": "mp2105_rp.uf2",
-          "buildRevision": 14,
-          "buildTimestamp": "2021-07-23T21:42:41.237Z",
+          "buildRevision": 15,
+          "buildTimestamp": "2021-08-01T04:25:23.121Z",
           "romUsage": 3.68,
           "ramUsage": 5.52
         }
@@ -149,10 +149,10 @@
           "variationName": "atmega",
           "targetDevice": "atmega32u4",
           "binaryFileName": "shiro_atmega.hex",
-          "buildRevision": 9,
-          "buildTimestamp": "2021-07-23T21:42:43.676Z",
-          "romUsage": 55.48,
-          "ramUsage": 68.4
+          "buildRevision": 10,
+          "buildTimestamp": "2021-08-01T04:25:25.570Z",
+          "romUsage": 55.57,
+          "ramUsage": 68.55
         }
       ]
     }
