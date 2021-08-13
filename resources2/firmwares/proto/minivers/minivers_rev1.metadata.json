@@ -1,0 +1,17 @@
+{
+  "firmwareId": "FZiVsZ",
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-08-13T01:19:27.349Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 3,
+  "profileBinaryFormatRevision": 4,
+  "configParametersRevision": 5,
+  "flashUsage": 64.33,
+  "ramUsage": 81.99,
+  "firmwareFileSize": 59307,
+  "firmwareBinaryFileMD5": "8ac665da26d9ac920ff919c58edaa46b",
+  "variationName": "rev1",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "minivers_rev1.hex"
+}

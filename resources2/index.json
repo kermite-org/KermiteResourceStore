@@ -1,0 +1,32 @@
+{
+  "updatedAt": "2021-08-13T01:19:41.714Z",
+  "filesRevision": 1,
+  "files": {
+    "firmwares/astelia/astelia_atmega.hex": "1d7d1092555ff8bb70832e8524e26aae",
+    "firmwares/astelia/astelia_atmega.metadata.json": "965fb740de02ac5682deeabad3608490",
+    "firmwares/proto/km60/km60_proto0.metadata.json": "70cdd5b396c56c6aab142134414481f0",
+    "firmwares/proto/km60/km60_proto0.uf2": "bb12b3e2ba3c3df09b0ca85079b4ef86",
+    "firmwares/proto/km71a/km71a_rp.metadata.json": "0acd50808bab873a8fe3d2da070c16b4",
+    "firmwares/proto/km71a/km71a_rp.uf2": "b30fc747b1215f1559a9ca0cc9f2fdff",
+    "firmwares/proto/minivers/minivers_rev1.hex": "8ac665da26d9ac920ff919c58edaa46b",
+    "firmwares/proto/minivers/minivers_rev1.metadata.json": "843e0d2d062c8f62a9ef59ba2132ccb7",
+    "firmwares/proto/minivers/minivers_rev2_rp.metadata.json": "fd5cecc0e34eea9c9c2dd115243f38f0",
+    "firmwares/proto/minivers/minivers_rev2_rp.uf2": "adb47354a0ea8e294ff47a8b64c82ff9",
+    "firmwares/proto/mp2105/mp2105_atmega.hex": "684ab1ca64939cb5cbc0b217fb2f1a9f",
+    "firmwares/proto/mp2105/mp2105_atmega.metadata.json": "1957043041c6ef4f18ff2f99040ff580",
+    "firmwares/proto/mp2105/mp2105_rp.metadata.json": "567a2f5a1c278229c37c58e1d3905c40",
+    "firmwares/proto/mp2105/mp2105_rp.uf2": "04c5c24616e2e01e4d5243bd585ded68",
+    "firmwares/shiro/shiro_atmega.hex": "9bc1932e16cd3e82f36b30da6fcc6b97",
+    "firmwares/shiro/shiro_atmega.metadata.json": "cf779929a81f947e4e987c832ae81f20",
+    "firmwares/standard/standard_avr.hex": "5866caea7d137041893ddbce46b0f69f",
+    "firmwares/standard/standard_avr.metadata.json": "ece2acd2f93eb212f27f44eb6f1f3030",
+    "firmwares/standard/standard_rp.metadata.json": "9ef70470db7234fe19fbb1da9bd84a6d",
+    "firmwares/standard/standard_rp.uf2": "6cfc7c3888b783decde1fec9d819b564",
+    "projects/astelia.kmpkg.json": "8481139812bb70bc6d990ff6efbd7be3",
+    "projects/km60.kmpkg.json": "66e0551e4bcc1ec2120e2576db596081",
+    "projects/km71a.kmpkg.json": "dd54e55e32b08ac98f45c749779064cc",
+    "projects/minivers.kmpkg.json": "aea12b492379cc6050e37179162a9f16",
+    "projects/mp2105.kmpkg.json": "23d59bc1ffb8840368b507b62ed30ba4",
+    "projects/shiro.kmpkg.json": "a9607e06cadc5697ed8b544e4116704e"
+  }
+}

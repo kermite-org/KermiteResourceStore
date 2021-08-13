@@ -1,0 +1,17 @@
+{
+  "firmwareId": "hxcfM7",
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-08-13T01:19:37.262Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 3,
+  "profileBinaryFormatRevision": 4,
+  "configParametersRevision": 5,
+  "flashUsage": 55.56,
+  "ramUsage": 68.55,
+  "firmwareFileSize": 51232,
+  "firmwareBinaryFileMD5": "9bc1932e16cd3e82f36b30da6fcc6b97",
+  "variationName": "atmega",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "shiro_atmega.hex"
+}

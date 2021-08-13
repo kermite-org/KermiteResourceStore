@@ -1,0 +1,128 @@
+{
+  "info": {
+    "buildStats": {
+      "numSuccess": 10,
+      "numTotal": 10
+    },
+    "environment": {
+      "OS": "Ubuntu 20.04.2 LTS",
+      "make": "GNU Make 4.2.1",
+      "avr-gcc": "avr-gcc (GCC) 11.1.0",
+      "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
+    },
+    "updateAt": "2021-08-13T01:19:41.771Z",
+    "filesRevision": 0
+  },
+  "firmwares": [
+    {
+      "firmwareId": "dFbA81",
+      "firmwareProjectPath": "astelia",
+      "variationName": "atmega",
+      "targetDevice": "atmega32u4",
+      "buildResult": "success",
+      "firmwareFileName": "astelia_atmega.hex",
+      "metadataFileName": "astelia_atmega.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:10.803Z"
+    },
+    {
+      "firmwareId": "7qHDCp",
+      "firmwareProjectPath": "proto/km60",
+      "variationName": "proto0",
+      "targetDevice": "rp2040",
+      "buildResult": "success",
+      "firmwareFileName": "km60_proto0.uf2",
+      "metadataFileName": "km60_proto0.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:22.810Z"
+    },
+    {
+      "firmwareId": "O1lweX",
+      "firmwareProjectPath": "proto/km71a",
+      "variationName": "rp",
+      "targetDevice": "rp2040",
+      "buildResult": "success",
+      "firmwareFileName": "km71a_rp.uf2",
+      "metadataFileName": "km71a_rp.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:25.349Z"
+    },
+    {
+      "firmwareId": "FZiVsZ",
+      "firmwareProjectPath": "proto/minivers",
+      "variationName": "rev1",
+      "targetDevice": "atmega32u4",
+      "buildResult": "success",
+      "firmwareFileName": "minivers_rev1.hex",
+      "metadataFileName": "minivers_rev1.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:27.349Z"
+    },
+    {
+      "firmwareId": "7zabZ0",
+      "firmwareProjectPath": "proto/minivers",
+      "variationName": "rev2_rp",
+      "targetDevice": "rp2040",
+      "buildResult": "success",
+      "firmwareFileName": "minivers_rev2_rp.uf2",
+      "metadataFileName": "minivers_rev2_rp.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:29.894Z"
+    },
+    {
+      "firmwareId": "feGV0G",
+      "firmwareProjectPath": "proto/mp2105",
+      "variationName": "atmega",
+      "targetDevice": "atmega32u4",
+      "buildResult": "success",
+      "firmwareFileName": "mp2105_atmega.hex",
+      "metadataFileName": "mp2105_atmega.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:32.108Z"
+    },
+    {
+      "firmwareId": "UMyy5p",
+      "firmwareProjectPath": "proto/mp2105",
+      "variationName": "rp",
+      "targetDevice": "rp2040",
+      "buildResult": "success",
+      "firmwareFileName": "mp2105_rp.uf2",
+      "metadataFileName": "mp2105_rp.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:35.401Z"
+    },
+    {
+      "firmwareId": "hxcfM7",
+      "firmwareProjectPath": "shiro",
+      "variationName": "atmega",
+      "targetDevice": "atmega32u4",
+      "buildResult": "success",
+      "firmwareFileName": "shiro_atmega.hex",
+      "metadataFileName": "shiro_atmega.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:37.262Z"
+    },
+    {
+      "firmwareId": "HCV52K",
+      "firmwareProjectPath": "standard",
+      "variationName": "avr",
+      "targetDevice": "atmega32u4",
+      "buildResult": "success",
+      "firmwareFileName": "standard_avr.hex",
+      "metadataFileName": "standard_avr.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:39.230Z"
+    },
+    {
+      "firmwareId": "HCV52L",
+      "firmwareProjectPath": "standard",
+      "variationName": "rp",
+      "targetDevice": "rp2040",
+      "buildResult": "success",
+      "firmwareFileName": "standard_rp.uf2",
+      "metadataFileName": "standard_rp.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-13T01:19:41.699Z"
+    }
+  ]
+}

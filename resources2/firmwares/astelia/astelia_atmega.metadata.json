@@ -1,0 +1,17 @@
+{
+  "firmwareId": "dFbA81",
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-08-13T01:19:10.803Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 3,
+  "profileBinaryFormatRevision": 4,
+  "configParametersRevision": 5,
+  "flashUsage": 56.17,
+  "ramUsage": 70,
+  "firmwareFileSize": 51801,
+  "firmwareBinaryFileMD5": "1d7d1092555ff8bb70832e8524e26aae",
+  "variationName": "atmega",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "astelia_atmega.hex"
+}

@@ -1,0 +1,17 @@
+{
+  "firmwareId": "feGV0G",
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-08-13T01:19:32.108Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 3,
+  "profileBinaryFormatRevision": 4,
+  "configParametersRevision": 5,
+  "flashUsage": 78.86,
+  "ramUsage": 77.62,
+  "firmwareFileSize": 72701,
+  "firmwareBinaryFileMD5": "684ab1ca64939cb5cbc0b217fb2f1a9f",
+  "variationName": "atmega",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "mp2105_atmega.hex"
+}

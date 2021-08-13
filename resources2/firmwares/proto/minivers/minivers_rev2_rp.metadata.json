@@ -1,0 +1,17 @@
+{
+  "firmwareId": "7zabZ0",
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-08-13T01:19:29.894Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 3,
+  "profileBinaryFormatRevision": 4,
+  "configParametersRevision": 5,
+  "flashUsage": 3.38,
+  "ramUsage": 5.1,
+  "firmwareFileSize": 141824,
+  "firmwareBinaryFileMD5": "adb47354a0ea8e294ff47a8b64c82ff9",
+  "variationName": "rev2_rp",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "minivers_rev2_rp.uf2"
+}

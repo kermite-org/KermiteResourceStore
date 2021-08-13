@@ -1,0 +1,17 @@
+{
+  "firmwareId": "HCV52K",
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-08-13T01:19:39.230Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 3,
+  "profileBinaryFormatRevision": 4,
+  "configParametersRevision": 5,
+  "flashUsage": 56.23,
+  "ramUsage": 71.95,
+  "firmwareFileSize": 51837,
+  "firmwareBinaryFileMD5": "5866caea7d137041893ddbce46b0f69f",
+  "variationName": "avr",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "standard_avr.hex"
+}
