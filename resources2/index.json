@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2021-08-13T01:19:41.714Z",
-  "filesRevision": 1,
+  "updatedAt": "2021-08-13T18:23:04.537Z",
+  "filesRevision": 2,
   "files": {
     "firmwares/astelia/astelia_atmega.hex": "1d7d1092555ff8bb70832e8524e26aae",
     "firmwares/astelia/astelia_atmega.metadata.json": "965fb740de02ac5682deeabad3608490",
@@ -22,11 +22,11 @@
     "firmwares/standard/standard_avr.metadata.json": "ece2acd2f93eb212f27f44eb6f1f3030",
     "firmwares/standard/standard_rp.metadata.json": "9ef70470db7234fe19fbb1da9bd84a6d",
     "firmwares/standard/standard_rp.uf2": "6cfc7c3888b783decde1fec9d819b564",
-    "projects/astelia.kmpkg.json": "8481139812bb70bc6d990ff6efbd7be3",
-    "projects/km60.kmpkg.json": "66e0551e4bcc1ec2120e2576db596081",
-    "projects/km71a.kmpkg.json": "dd54e55e32b08ac98f45c749779064cc",
-    "projects/minivers.kmpkg.json": "aea12b492379cc6050e37179162a9f16",
-    "projects/mp2105.kmpkg.json": "23d59bc1ffb8840368b507b62ed30ba4",
-    "projects/shiro.kmpkg.json": "a9607e06cadc5697ed8b544e4116704e"
+    "projects/astelia.kmpkg.json": "e4c5786f7b754be2af6f5cd4a4ccb93f",
+    "projects/km60.kmpkg.json": "188be905e7f3b86560d0d85f0b3bfe9d",
+    "projects/km71a.kmpkg.json": "be4d965c8db98abd64fdaaf1bbf97cd7",
+    "projects/minivers.kmpkg.json": "9bfeaad9e16c55ecd3e4d532a8e18c35",
+    "projects/mp2105.kmpkg.json": "5f92f3a70e5c0ff75bf0b3142044a6fa",
+    "projects/shiro.kmpkg.json": "0d2f6f4d493b89bf09e6f0c8f4367ac9"
   }
 }
