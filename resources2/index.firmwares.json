@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-08-13T01:19:41.771Z",
-    "filesRevision": 0
+    "updateAt": "2021-08-13T03:18:03.461Z",
+    "filesRevision": 1
   },
   "firmwares": [
     {
