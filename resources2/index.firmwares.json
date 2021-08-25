@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-08-13T18:23:04.599Z",
-    "filesRevision": 1
+    "updateAt": "2021-08-25T23:56:49.541Z",
+    "filesRevision": 2
   },
   "firmwares": [
     {
@@ -22,8 +22,8 @@
       "buildResult": "success",
       "firmwareFileName": "astelia_atmega.hex",
       "metadataFileName": "astelia_atmega.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:10.803Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:15.430Z"
     },
     {
       "firmwareId": "7qHDCp",
@@ -33,8 +33,8 @@
       "buildResult": "success",
       "firmwareFileName": "km60_proto0.uf2",
       "metadataFileName": "km60_proto0.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:22.810Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:28.701Z"
     },
     {
       "firmwareId": "O1lweX",
@@ -44,8 +44,8 @@
       "buildResult": "success",
       "firmwareFileName": "km71a_rp.uf2",
       "metadataFileName": "km71a_rp.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:25.349Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:31.467Z"
     },
     {
       "firmwareId": "FZiVsZ",
@@ -55,8 +55,8 @@
       "buildResult": "success",
       "firmwareFileName": "minivers_rev1.hex",
       "metadataFileName": "minivers_rev1.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:27.349Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:34.014Z"
     },
     {
       "firmwareId": "7zabZ0",
@@ -66,8 +66,8 @@
       "buildResult": "success",
       "firmwareFileName": "minivers_rev2_rp.uf2",
       "metadataFileName": "minivers_rev2_rp.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:29.894Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:37.316Z"
     },
     {
       "firmwareId": "feGV0G",
@@ -77,8 +77,8 @@
       "buildResult": "success",
       "firmwareFileName": "mp2105_atmega.hex",
       "metadataFileName": "mp2105_atmega.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:32.108Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:39.834Z"
     },
     {
       "firmwareId": "UMyy5p",
@@ -88,8 +88,8 @@
       "buildResult": "success",
       "firmwareFileName": "mp2105_rp.uf2",
       "metadataFileName": "mp2105_rp.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:35.401Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:42.969Z"
     },
     {
       "firmwareId": "hxcfM7",
@@ -99,8 +99,8 @@
       "buildResult": "success",
       "firmwareFileName": "shiro_atmega.hex",
       "metadataFileName": "shiro_atmega.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:37.262Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:44.921Z"
     },
     {
       "firmwareId": "HCV52K",
@@ -110,8 +110,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_avr.hex",
       "metadataFileName": "standard_avr.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:39.230Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:46.905Z"
     },
     {
       "firmwareId": "HCV52L",
@@ -121,8 +121,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp.uf2",
       "metadataFileName": "standard_rp.metadata.json",
-      "releaseBuildRevision": 1,
-      "buildTimestamp": "2021-08-13T01:19:41.699Z"
+      "releaseBuildRevision": 2,
+      "buildTimestamp": "2021-08-25T23:56:49.465Z"
     }
   ]
 }
