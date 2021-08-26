@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2021-08-25T23:56:49.481Z",
-  "filesRevision": 3,
+  "updatedAt": "2021-08-26T17:53:42.373Z",
+  "filesRevision": 4,
   "files": {
     "firmwares/astelia/astelia_atmega.hex": "d2042e8540b91baeb2cb24dd345cd1d2",
     "firmwares/astelia/astelia_atmega.metadata.json": "a7864b4618297c947c4538577514e595",
@@ -9,7 +9,7 @@
     "firmwares/proto/km71a/km71a_rp.metadata.json": "84d1c5ff6c1eff389072bb37e39b41aa",
     "firmwares/proto/km71a/km71a_rp.uf2": "433235050b65dc0bc79bcd76334d0c15",
     "firmwares/proto/minivers/minivers_rev1.hex": "6a8d4ded2a15c3392abc8481571f0626",
-    "firmwares/proto/minivers/minivers_rev1.metadata.json": "ba2b8fdfa97bdfd9e3e8892151838182",
+    "firmwares/proto/minivers/minivers_rev1.metadata.json": "a1e70cddcb91ae174179fde9738dfb5d",
     "firmwares/proto/minivers/minivers_rev2_rp.metadata.json": "e3611ac2a0cfbcdbc2330ca20b465b59",
     "firmwares/proto/minivers/minivers_rev2_rp.uf2": "b3a8aa0e6d6fb5aebc1c0f2fc1b21c67",
     "firmwares/proto/mp2105/mp2105_atmega.hex": "3fe579cd4803abd047007562e5267fcd",
@@ -17,7 +17,7 @@
     "firmwares/proto/mp2105/mp2105_rp.metadata.json": "41839480163b7bc7308893625ff31792",
     "firmwares/proto/mp2105/mp2105_rp.uf2": "815caac352a1519d5e6799b0e59b975b",
     "firmwares/shiro/shiro_atmega.hex": "b7e2d3bb6330f56894724b775796e339",
-    "firmwares/shiro/shiro_atmega.metadata.json": "42d86463d9a17394fe32aa08827c6819",
+    "firmwares/shiro/shiro_atmega.metadata.json": "65237a3fdb0a54440c3aa43694d782f3",
     "firmwares/standard/standard_avr.hex": "e1ba4678851df8f71da4e045fa568859",
     "firmwares/standard/standard_avr.metadata.json": "37e49c233d9e3df57f7bf3d56c70d900",
     "firmwares/standard/standard_rp.metadata.json": "c59dd64de4e8b9a346d3b5573a0b52e7",
