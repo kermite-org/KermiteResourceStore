@@ -1,11 +1,13 @@
 {
-  "updatedAt": "2021-08-26T17:53:42.373Z",
-  "filesRevision": 4,
+  "updatedAt": "2021-08-28T06:53:33.072Z",
+  "filesRevision": 5,
   "files": {
     "firmwares/astelia/astelia_atmega.hex": "d2042e8540b91baeb2cb24dd345cd1d2",
     "firmwares/astelia/astelia_atmega.metadata.json": "a7864b4618297c947c4538577514e595",
     "firmwares/proto/km60/km60_proto0.metadata.json": "714a3fa4c96c6cdba2ebe4ce80394ea0",
     "firmwares/proto/km60/km60_proto0.uf2": "b367507404b13af490aa395026976669",
+    "firmwares/proto/km60/km60_proto1.metadata.json": "62c1be2fc122ef065b68d6fd37703195",
+    "firmwares/proto/km60/km60_proto1.uf2": "88d14db2c6d395cc644a246ad7689ce7",
     "firmwares/proto/km71a/km71a_rp.metadata.json": "84d1c5ff6c1eff389072bb37e39b41aa",
     "firmwares/proto/km71a/km71a_rp.uf2": "433235050b65dc0bc79bcd76334d0c15",
     "firmwares/proto/minivers/minivers_rev1.hex": "6a8d4ded2a15c3392abc8481571f0626",

@@ -1,8 +1,8 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 10,
-      "numTotal": 10
+      "numSuccess": 11,
+      "numTotal": 11
     },
     "environment": {
       "OS": "Ubuntu 20.04.2 LTS",
@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-08-26T17:53:42.435Z",
-    "filesRevision": 3
+    "updateAt": "2021-08-28T06:53:33.145Z",
+    "filesRevision": 4
   },
   "firmwares": [
     {
@@ -35,6 +35,17 @@
       "metadataFileName": "km60_proto0.metadata.json",
       "releaseBuildRevision": 2,
       "buildTimestamp": "2021-08-25T23:56:28.701Z"
+    },
+    {
+      "firmwareId": "7qHDCp",
+      "firmwareProjectPath": "proto/km60",
+      "variationName": "proto1",
+      "targetDevice": "rp2040",
+      "buildResult": "success",
+      "firmwareFileName": "km60_proto1.uf2",
+      "metadataFileName": "km60_proto1.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-08-28T06:53:21.335Z"
     },
     {
       "firmwareId": "O1lweX",
