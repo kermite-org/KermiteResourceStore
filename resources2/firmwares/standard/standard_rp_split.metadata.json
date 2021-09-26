@@ -1,0 +1,17 @@
+{
+  "firmwareId": "HCV53B",
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-09-26T04:58:12.359Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 4,
+  "profileBinaryFormatRevision": 4,
+  "configParametersRevision": 5,
+  "flashUsage": 3.93,
+  "ramUsage": 5.68,
+  "firmwareFileSize": 164864,
+  "firmwareBinaryFileMD5": "c371d11df1c7ad71246e09a3a824712f",
+  "variationName": "rp_split",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "standard_rp_split.uf2"
+}

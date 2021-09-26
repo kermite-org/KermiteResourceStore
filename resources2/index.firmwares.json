@@ -1,8 +1,8 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 11,
-      "numTotal": 11
+      "numSuccess": 13,
+      "numTotal": 13
     },
     "environment": {
       "OS": "Ubuntu 20.04.3 LTS",
@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-09-11T15:00:26.039Z",
-    "filesRevision": 6
+    "updateAt": "2021-09-26T04:58:16.569Z",
+    "filesRevision": 7
   },
   "firmwares": [
     {
@@ -55,8 +55,8 @@
       "buildResult": "success",
       "firmwareFileName": "km71a_rp.uf2",
       "metadataFileName": "km71a_rp.metadata.json",
-      "releaseBuildRevision": 3,
-      "buildTimestamp": "2021-09-11T15:00:03.916Z"
+      "releaseBuildRevision": 4,
+      "buildTimestamp": "2021-09-26T04:57:45.507Z"
     },
     {
       "firmwareId": "FZiVsZ",
@@ -66,8 +66,8 @@
       "buildResult": "success",
       "firmwareFileName": "minivers_rev1.hex",
       "metadataFileName": "minivers_rev1.metadata.json",
-      "releaseBuildRevision": 3,
-      "buildTimestamp": "2021-09-11T15:00:06.863Z"
+      "releaseBuildRevision": 4,
+      "buildTimestamp": "2021-09-26T04:57:48.832Z"
     },
     {
       "firmwareId": "7zabZ0",
@@ -77,8 +77,8 @@
       "buildResult": "success",
       "firmwareFileName": "minivers_rev2_rp.uf2",
       "metadataFileName": "minivers_rev2_rp.metadata.json",
-      "releaseBuildRevision": 3,
-      "buildTimestamp": "2021-09-11T15:00:10.135Z"
+      "releaseBuildRevision": 4,
+      "buildTimestamp": "2021-09-26T04:57:52.436Z"
     },
     {
       "firmwareId": "feGV0G",
@@ -88,8 +88,8 @@
       "buildResult": "success",
       "firmwareFileName": "mp2105_atmega.hex",
       "metadataFileName": "mp2105_atmega.metadata.json",
-      "releaseBuildRevision": 3,
-      "buildTimestamp": "2021-09-11T15:00:13.029Z"
+      "releaseBuildRevision": 4,
+      "buildTimestamp": "2021-09-26T04:57:55.663Z"
     },
     {
       "firmwareId": "UMyy5p",
@@ -99,8 +99,8 @@
       "buildResult": "success",
       "firmwareFileName": "mp2105_rp.uf2",
       "metadataFileName": "mp2105_rp.metadata.json",
-      "releaseBuildRevision": 3,
-      "buildTimestamp": "2021-09-11T15:00:16.712Z"
+      "releaseBuildRevision": 4,
+      "buildTimestamp": "2021-09-26T04:57:59.657Z"
     },
     {
       "firmwareId": "hxcfM7",
@@ -114,6 +114,17 @@
       "buildTimestamp": "2021-09-11T15:00:19.004Z"
     },
     {
+      "firmwareId": "HCV53A",
+      "firmwareProjectPath": "standard",
+      "variationName": "avr_split",
+      "targetDevice": "atmega32u4",
+      "buildResult": "success",
+      "firmwareFileName": "standard_avr_split.hex",
+      "metadataFileName": "standard_avr_split.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-09-26T04:58:04.448Z"
+    },
+    {
       "firmwareId": "HCV52K",
       "firmwareProjectPath": "standard",
       "variationName": "avr",
@@ -121,8 +132,19 @@
       "buildResult": "success",
       "firmwareFileName": "standard_avr.hex",
       "metadataFileName": "standard_avr.metadata.json",
-      "releaseBuildRevision": 3,
-      "buildTimestamp": "2021-09-11T15:00:22.110Z"
+      "releaseBuildRevision": 4,
+      "buildTimestamp": "2021-09-26T04:58:07.786Z"
+    },
+    {
+      "firmwareId": "HCV53B",
+      "firmwareProjectPath": "standard",
+      "variationName": "rp_split",
+      "targetDevice": "rp2040",
+      "buildResult": "success",
+      "firmwareFileName": "standard_rp_split.uf2",
+      "metadataFileName": "standard_rp_split.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2021-09-26T04:58:12.359Z"
     },
     {
       "firmwareId": "HCV52L",
@@ -132,8 +154,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp.uf2",
       "metadataFileName": "standard_rp.metadata.json",
-      "releaseBuildRevision": 3,
-      "buildTimestamp": "2021-09-11T15:00:25.948Z"
+      "releaseBuildRevision": 4,
+      "buildTimestamp": "2021-09-26T04:58:16.466Z"
     }
   ]
 }

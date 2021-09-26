@@ -1,0 +1,17 @@
+{
+  "firmwareId": "HCV53A",
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2021-09-26T04:58:04.448Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 4,
+  "profileBinaryFormatRevision": 4,
+  "configParametersRevision": 5,
+  "flashUsage": 82.42,
+  "ramUsage": 92.5,
+  "firmwareFileSize": 75969,
+  "firmwareBinaryFileMD5": "0540e0b1e39eb3f25c14fbe180d07db9",
+  "variationName": "avr_split",
+  "targetDevice": "atmega32u4",
+  "firmwareFileName": "standard_avr_split.hex"
+}
