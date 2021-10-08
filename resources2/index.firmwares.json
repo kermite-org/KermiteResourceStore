@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-10-08T03:58:07.593Z",
-    "filesRevision": 8
+    "updateAt": "2021-10-08T08:12:54.560Z",
+    "filesRevision": 9
   },
   "firmwares": [
     {
@@ -37,15 +37,15 @@
       "buildTimestamp": "2021-10-08T03:57:31.439Z"
     },
     {
-      "firmwareId": "7qHDCp",
+      "firmwareId": "Lr115M",
       "firmwareProjectPath": "proto/km60",
       "variationName": "proto1",
       "targetDevice": "rp2040",
       "buildResult": "success",
       "firmwareFileName": "km60_proto1.uf2",
       "metadataFileName": "km60_proto1.metadata.json",
-      "releaseBuildRevision": 3,
-      "buildTimestamp": "2021-10-08T03:57:34.320Z"
+      "releaseBuildRevision": 4,
+      "buildTimestamp": "2021-10-08T08:12:35.628Z"
     },
     {
       "firmwareId": "O1lweX",
