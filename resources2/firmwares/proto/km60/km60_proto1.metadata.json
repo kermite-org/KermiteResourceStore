@@ -1,8 +1,8 @@
 {
   "firmwareId": "Lr115M",
   "buildResult": "success",
-  "releaseBuildRevision": 4,
-  "buildTimestamp": "2021-10-08T08:12:35.628Z",
+  "releaseBuildRevision": 5,
+  "buildTimestamp": "2021-10-10T06:45:46.950Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 4,
   "profileBinaryFormatRevision": 5,
@@ -10,7 +10,7 @@
   "flashUsage": 3.19,
   "ramUsage": 5.08,
   "firmwareFileSize": 134144,
-  "firmwareBinaryFileMD5": "e80b7b87694d552f593cb656cfa42df2",
+  "firmwareBinaryFileMD5": "e01f275559463502c173dee818ffac35",
   "variationName": "proto1",
   "targetDevice": "rp2040",
   "firmwareFileName": "km60_proto1.uf2"

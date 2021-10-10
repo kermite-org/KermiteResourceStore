@@ -1,8 +1,8 @@
 {
   "firmwareId": "7qHDCp",
   "buildResult": "success",
-  "releaseBuildRevision": 4,
-  "buildTimestamp": "2021-10-08T03:57:31.439Z",
+  "releaseBuildRevision": 5,
+  "buildTimestamp": "2021-10-10T06:45:43.436Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 4,
   "profileBinaryFormatRevision": 5,
@@ -10,7 +10,7 @@
   "flashUsage": 3.19,
   "ramUsage": 5.08,
   "firmwareFileSize": 134144,
-  "firmwareBinaryFileMD5": "dfacff576a8cb75d28ad30b7f898602b",
+  "firmwareBinaryFileMD5": "17583d5e15843b9591d1b6b8843bb3b8",
   "variationName": "proto0",
   "targetDevice": "rp2040",
   "firmwareFileName": "km60_proto0.uf2"
