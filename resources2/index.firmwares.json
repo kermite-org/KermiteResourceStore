@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-10-10T06:46:22.930Z",
-    "filesRevision": 10
+    "updateAt": "2021-11-07T17:43:37.475Z",
+    "filesRevision": 11
   },
   "firmwares": [
     {
@@ -132,8 +132,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_avr.hex",
       "metadataFileName": "standard_avr.metadata.json",
-      "releaseBuildRevision": 6,
-      "buildTimestamp": "2021-10-10T06:46:13.876Z"
+      "releaseBuildRevision": 7,
+      "buildTimestamp": "2021-11-07T17:43:30.402Z"
     },
     {
       "firmwareId": "HCV53B",
@@ -154,8 +154,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp.uf2",
       "metadataFileName": "standard_rp.metadata.json",
-      "releaseBuildRevision": 6,
-      "buildTimestamp": "2021-10-10T06:46:22.810Z"
+      "releaseBuildRevision": 7,
+      "buildTimestamp": "2021-11-07T17:43:37.367Z"
     }
   ]
 }
