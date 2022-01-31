@@ -1,8 +1,8 @@
 {
   "firmwareId": "7zabZ0",
   "buildResult": "success",
-  "releaseBuildRevision": 7,
-  "buildTimestamp": "2021-11-14T03:42:36.626Z",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2022-01-31T14:49:02.370Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 4,
   "profileBinaryFormatRevision": 5,
@@ -10,8 +10,8 @@
   "flashUsage": 3.41,
   "ramUsage": 5.15,
   "firmwareFileSize": 143360,
-  "firmwareBinaryFileMD5": "8f774f65f5afc264db73f11f319123eb",
+  "firmwareBinaryFileMD5": "656ac81c7484bc58cfef1c2daba53013",
   "variationName": "rev2_rp",
   "targetDevice": "rp2040",
-  "firmwareFileName": "minivers_rev2_rp.uf2"
+  "firmwareFileName": "sp2104_rev2_rp.uf2"
 }

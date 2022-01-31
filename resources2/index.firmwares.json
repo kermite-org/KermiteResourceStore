@@ -1,8 +1,8 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 13,
-      "numTotal": 13
+      "numSuccess": 9,
+      "numTotal": 9
     },
     "environment": {
       "OS": "Ubuntu 20.04.3 LTS",
@@ -10,8 +10,8 @@
       "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2021-11-14T03:42:57.961Z",
-    "filesRevision": 12
+    "updateAt": "2022-01-31T14:49:09.162Z",
+    "filesRevision": 13
   },
   "firmwares": [
     {
@@ -26,28 +26,6 @@
       "buildTimestamp": "2021-11-14T03:42:06.375Z"
     },
     {
-      "firmwareId": "7qHDCp",
-      "firmwareProjectPath": "proto/km60",
-      "variationName": "proto0",
-      "targetDevice": "rp2040",
-      "buildResult": "success",
-      "firmwareFileName": "km60_proto0.uf2",
-      "metadataFileName": "km60_proto0.metadata.json",
-      "releaseBuildRevision": 6,
-      "buildTimestamp": "2021-11-14T03:42:23.188Z"
-    },
-    {
-      "firmwareId": "Lr115M",
-      "firmwareProjectPath": "proto/km60",
-      "variationName": "proto1",
-      "targetDevice": "rp2040",
-      "buildResult": "success",
-      "firmwareFileName": "km60_proto1.uf2",
-      "metadataFileName": "km60_proto1.metadata.json",
-      "releaseBuildRevision": 6,
-      "buildTimestamp": "2021-11-14T03:42:26.356Z"
-    },
-    {
       "firmwareId": "O1lweX",
       "firmwareProjectPath": "proto/km71a",
       "variationName": "rp",
@@ -57,28 +35,6 @@
       "metadataFileName": "km71a_rp.metadata.json",
       "releaseBuildRevision": 7,
       "buildTimestamp": "2021-11-14T03:42:30.020Z"
-    },
-    {
-      "firmwareId": "FZiVsZ",
-      "firmwareProjectPath": "proto/minivers",
-      "variationName": "rev1",
-      "targetDevice": "atmega32u4",
-      "buildResult": "success",
-      "firmwareFileName": "minivers_rev1.hex",
-      "metadataFileName": "minivers_rev1.metadata.json",
-      "releaseBuildRevision": 7,
-      "buildTimestamp": "2021-11-14T03:42:33.001Z"
-    },
-    {
-      "firmwareId": "7zabZ0",
-      "firmwareProjectPath": "proto/minivers",
-      "variationName": "rev2_rp",
-      "targetDevice": "rp2040",
-      "buildResult": "success",
-      "firmwareFileName": "minivers_rev2_rp.uf2",
-      "metadataFileName": "minivers_rev2_rp.metadata.json",
-      "releaseBuildRevision": 7,
-      "buildTimestamp": "2021-11-14T03:42:36.626Z"
     },
     {
       "firmwareId": "feGV0G",
@@ -103,15 +59,15 @@
       "buildTimestamp": "2021-11-14T03:42:43.860Z"
     },
     {
-      "firmwareId": "hxcfM7",
-      "firmwareProjectPath": "shiro",
-      "variationName": "atmega",
-      "targetDevice": "atmega32u4",
+      "firmwareId": "7zabZ0",
+      "firmwareProjectPath": "proto/sp2104",
+      "variationName": "rev2_rp",
+      "targetDevice": "rp2040",
       "buildResult": "success",
-      "firmwareFileName": "shiro_atmega.hex",
-      "metadataFileName": "shiro_atmega.metadata.json",
-      "releaseBuildRevision": 6,
-      "buildTimestamp": "2021-11-14T03:42:46.434Z"
+      "firmwareFileName": "sp2104_rev2_rp.uf2",
+      "metadataFileName": "sp2104_rev2_rp.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2022-01-31T14:49:02.370Z"
     },
     {
       "firmwareId": "HCV53A",
