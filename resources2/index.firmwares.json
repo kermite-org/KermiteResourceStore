@@ -1,30 +1,18 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 9,
-      "numTotal": 9
+      "numSuccess": 5,
+      "numTotal": 5
     },
     "environment": {
       "OS": "Ubuntu 20.04.4 LTS",
       "make": "GNU Make 4.2.1",
-      "avr-gcc": "avr-gcc (GCC) 11.1.0",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2022-06-22T01:20:59.663Z",
-    "filesRevision": 14
+    "updateAt": "2022-06-23T12:24:03.080Z",
+    "filesRevision": 15
   },
   "firmwares": [
-    {
-      "firmwareId": "dFbA81",
-      "firmwareProjectPath": "astelia",
-      "variationName": "atmega",
-      "targetDevice": "atmega32u4",
-      "buildResult": "success",
-      "firmwareFileName": "astelia_atmega.hex",
-      "metadataFileName": "astelia_atmega.metadata.json",
-      "releaseBuildRevision": 7,
-      "buildTimestamp": "2022-06-22T01:20:19.796Z"
-    },
     {
       "firmwareId": "O1lweX",
       "firmwareProjectPath": "proto/km71a",
@@ -33,19 +21,8 @@
       "buildResult": "success",
       "firmwareFileName": "km71a_rp.uf2",
       "metadataFileName": "km71a_rp.metadata.json",
-      "releaseBuildRevision": 8,
-      "buildTimestamp": "2022-06-22T01:20:34.709Z"
-    },
-    {
-      "firmwareId": "feGV0G",
-      "firmwareProjectPath": "proto/mp2105",
-      "variationName": "atmega",
-      "targetDevice": "atmega32u4",
-      "buildResult": "success",
-      "firmwareFileName": "mp2105_atmega.hex",
-      "metadataFileName": "mp2105_atmega.metadata.json",
-      "releaseBuildRevision": 8,
-      "buildTimestamp": "2022-06-22T01:20:37.648Z"
+      "releaseBuildRevision": 9,
+      "buildTimestamp": "2022-06-23T12:23:49.297Z"
     },
     {
       "firmwareId": "UMyy5p",
@@ -55,8 +32,8 @@
       "buildResult": "success",
       "firmwareFileName": "mp2105_rp.uf2",
       "metadataFileName": "mp2105_rp.metadata.json",
-      "releaseBuildRevision": 8,
-      "buildTimestamp": "2022-06-22T01:20:41.524Z"
+      "releaseBuildRevision": 9,
+      "buildTimestamp": "2022-06-23T12:23:52.640Z"
     },
     {
       "firmwareId": "7zabZ0",
@@ -66,30 +43,8 @@
       "buildResult": "success",
       "firmwareFileName": "sp2104_rev2_rp.uf2",
       "metadataFileName": "sp2104_rev2_rp.metadata.json",
-      "releaseBuildRevision": 2,
-      "buildTimestamp": "2022-06-22T01:20:44.934Z"
-    },
-    {
-      "firmwareId": "HCV53A",
-      "firmwareProjectPath": "standard",
-      "variationName": "avr_split",
-      "targetDevice": "atmega32u4",
-      "buildResult": "success",
-      "firmwareFileName": "standard_avr_split.hex",
-      "metadataFileName": "standard_avr_split.metadata.json",
-      "releaseBuildRevision": 4,
-      "buildTimestamp": "2022-06-22T01:20:48.270Z"
-    },
-    {
-      "firmwareId": "HCV52K",
-      "firmwareProjectPath": "standard",
-      "variationName": "avr",
-      "targetDevice": "atmega32u4",
-      "buildResult": "success",
-      "firmwareFileName": "standard_avr.hex",
-      "metadataFileName": "standard_avr.metadata.json",
-      "releaseBuildRevision": 9,
-      "buildTimestamp": "2022-06-22T01:20:51.435Z"
+      "releaseBuildRevision": 3,
+      "buildTimestamp": "2022-06-23T12:23:55.677Z"
     },
     {
       "firmwareId": "HCV53B",
@@ -99,8 +54,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp_split.uf2",
       "metadataFileName": "standard_rp_split.metadata.json",
-      "releaseBuildRevision": 4,
-      "buildTimestamp": "2022-06-22T01:20:55.697Z"
+      "releaseBuildRevision": 5,
+      "buildTimestamp": "2022-06-23T12:23:59.519Z"
     },
     {
       "firmwareId": "HCV52L",
@@ -110,8 +65,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp.uf2",
       "metadataFileName": "standard_rp.metadata.json",
-      "releaseBuildRevision": 9,
-      "buildTimestamp": "2022-06-22T01:20:59.571Z"
+      "releaseBuildRevision": 10,
+      "buildTimestamp": "2022-06-23T12:24:03.012Z"
     }
   ]
 }
