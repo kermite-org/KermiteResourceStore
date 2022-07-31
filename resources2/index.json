@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2022-06-23T12:24:03.027Z",
-  "filesRevision": 16,
+  "updatedAt": "2022-07-31T12:32:28.851Z",
+  "filesRevision": 17,
   "files": {
     "firmwares/proto/km71a/km71a_rp.metadata.json": "d33c7f64f01fa01df8a1d9bed34613c8",
     "firmwares/proto/km71a/km71a_rp.uf2": "0ce7eda4212991465fc563c953bf0cdd",
@@ -8,8 +8,8 @@
     "firmwares/proto/mp2105/mp2105_rp.uf2": "3bd8820b983631e7b2f96b3e71375601",
     "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "a5ef19ffa173820523e870cae3ad1b12",
     "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "5527f7881bef77dcfe276032a19cb232",
-    "firmwares/standard/standard_rp_split.metadata.json": "ddbdf7422f4fcef5e31eb8faafbb949e",
-    "firmwares/standard/standard_rp_split.uf2": "9cfe4f1e3632abbf5883c7a27353c959",
+    "firmwares/standard/standard_rp_split.metadata.json": "435299d05a1695f944dedd8264f07da9",
+    "firmwares/standard/standard_rp_split.uf2": "e0008ca9b3a79278704cbd3f0bf6180b",
     "firmwares/standard/standard_rp.metadata.json": "7cddeb140573dc6de04705b0581531cb",
     "firmwares/standard/standard_rp.uf2": "c1425e0585b06605bc935531532d0c3f"
   }

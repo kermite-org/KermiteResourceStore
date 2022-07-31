@@ -9,8 +9,8 @@
       "make": "GNU Make 4.2.1",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2022-06-23T12:24:03.080Z",
-    "filesRevision": 15
+    "updateAt": "2022-07-31T12:32:28.924Z",
+    "filesRevision": 16
   },
   "firmwares": [
     {
@@ -54,8 +54,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp_split.uf2",
       "metadataFileName": "standard_rp_split.metadata.json",
-      "releaseBuildRevision": 5,
-      "buildTimestamp": "2022-06-23T12:23:59.519Z"
+      "releaseBuildRevision": 6,
+      "buildTimestamp": "2022-07-31T12:32:26.551Z"
     },
     {
       "firmwareId": "HCV52L",
