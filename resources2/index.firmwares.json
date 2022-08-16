@@ -9,8 +9,8 @@
       "make": "GNU Make 4.2.1",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2022-08-07T09:10:21.719Z",
-    "filesRevision": 20
+    "updateAt": "2022-08-16T20:55:10.409Z",
+    "filesRevision": 21
   },
   "firmwares": [
     {
@@ -21,8 +21,8 @@
       "buildResult": "success",
       "firmwareFileName": "km71a_rp.uf2",
       "metadataFileName": "km71a_rp.metadata.json",
-      "releaseBuildRevision": 13,
-      "buildTimestamp": "2022-08-07T09:10:05.064Z"
+      "releaseBuildRevision": 14,
+      "buildTimestamp": "2022-08-16T20:54:52.940Z"
     },
     {
       "firmwareId": "UMyy5p",
@@ -32,8 +32,8 @@
       "buildResult": "success",
       "firmwareFileName": "mp2105_rp.uf2",
       "metadataFileName": "mp2105_rp.metadata.json",
-      "releaseBuildRevision": 13,
-      "buildTimestamp": "2022-08-07T09:10:09.195Z"
+      "releaseBuildRevision": 14,
+      "buildTimestamp": "2022-08-16T20:54:57.087Z"
     },
     {
       "firmwareId": "7zabZ0",
@@ -43,8 +43,8 @@
       "buildResult": "success",
       "firmwareFileName": "sp2104_rev2_rp.uf2",
       "metadataFileName": "sp2104_rev2_rp.metadata.json",
-      "releaseBuildRevision": 7,
-      "buildTimestamp": "2022-08-07T09:10:12.846Z"
+      "releaseBuildRevision": 8,
+      "buildTimestamp": "2022-08-16T20:55:00.978Z"
     },
     {
       "firmwareId": "HCV53B",
@@ -54,8 +54,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp_split.uf2",
       "metadataFileName": "standard_rp_split.metadata.json",
-      "releaseBuildRevision": 10,
-      "buildTimestamp": "2022-08-07T09:10:17.471Z"
+      "releaseBuildRevision": 11,
+      "buildTimestamp": "2022-08-16T20:55:05.899Z"
     },
     {
       "firmwareId": "HCV52L",
@@ -65,8 +65,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp.uf2",
       "metadataFileName": "standard_rp.metadata.json",
-      "releaseBuildRevision": 14,
-      "buildTimestamp": "2022-08-07T09:10:21.634Z"
+      "releaseBuildRevision": 15,
+      "buildTimestamp": "2022-08-16T20:55:10.323Z"
     }
   ]
 }
