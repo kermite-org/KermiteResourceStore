@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2022-08-16T20:55:10.339Z",
-  "filesRevision": 22,
+  "updatedAt": "2022-08-31T08:24:00.686Z",
+  "filesRevision": 23,
   "files": {
-    "firmwares/proto/km71a/km71a_rp.metadata.json": "57c86c5c0186003f89b7f96a7cecb55d",
-    "firmwares/proto/km71a/km71a_rp.uf2": "423b7dbbf29729d871c3e52f46cfd608",
-    "firmwares/proto/mp2105/mp2105_rp.metadata.json": "9ad56af9c4e8de9735214a89d86374c2",
-    "firmwares/proto/mp2105/mp2105_rp.uf2": "0890f4615d4c82180fd6daff7add2046",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "890dfc80468e1d0a1bb28cb8dfd8cfee",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "51b57663729d8d9d9f7e7d0d5e901642",
-    "firmwares/standard/standard_rp_split.metadata.json": "29ab58d15507858e9e33835bd06e826b",
-    "firmwares/standard/standard_rp_split.uf2": "04229467071323798280ce14fced813c",
-    "firmwares/standard/standard_rp.metadata.json": "fd50e1ddc3d5949f2645251e3cce77e8",
-    "firmwares/standard/standard_rp.uf2": "984910e5bfd926f7116a429811cf1a9c"
+    "firmwares/proto/km71a/km71a_rp.metadata.json": "2f9535960784168abd259d362369d231",
+    "firmwares/proto/km71a/km71a_rp.uf2": "84c4ce06812a33fd3f6847ded72c7765",
+    "firmwares/proto/mp2105/mp2105_rp.metadata.json": "535b2dca798ee32480e4af8953befe34",
+    "firmwares/proto/mp2105/mp2105_rp.uf2": "cc884dcbf6f2fac971a732b68aac2e20",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "2f6076a15f89f025f04daa49d517628f",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "299b8d6aefea3307b43583e4053f2679",
+    "firmwares/standard/standard_rp_split.metadata.json": "9ac9729f009b9c241dce864c16e84a6e",
+    "firmwares/standard/standard_rp_split.uf2": "d5abbf0e9d2ae7c02d0a328960b0fc2c",
+    "firmwares/standard/standard_rp.metadata.json": "3be60e93a1164bc7752e17164221bd46",
+    "firmwares/standard/standard_rp.uf2": "29531554812799369a8406ed825731da"
   }
 }
