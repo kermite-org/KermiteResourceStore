@@ -1,8 +1,8 @@
 {
   "firmwareId": "HCV52L",
   "buildResult": "success",
-  "releaseBuildRevision": 16,
-  "buildTimestamp": "2022-08-31T08:24:00.651Z",
+  "releaseBuildRevision": 17,
+  "buildTimestamp": "2023-03-18T09:17:37.049Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 5,
   "profileBinaryFormatRevision": 5,
@@ -10,7 +10,7 @@
   "flashUsage": 3.79,
   "ramUsage": 5.71,
   "firmwareFileSize": 159232,
-  "firmwareBinaryFileMD5": "29531554812799369a8406ed825731da",
+  "firmwareBinaryFileMD5": "bca94dc0f51651f7c907410f6645ae0f",
   "variationName": "rp",
   "targetDevice": "rp2040",
   "firmwareFileName": "standard_rp.uf2"
