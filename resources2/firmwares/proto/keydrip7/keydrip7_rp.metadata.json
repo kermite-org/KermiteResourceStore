@@ -1,0 +1,17 @@
+{
+  "firmwareId": "Z9G7dk",
+  "buildResult": "success",
+  "releaseBuildRevision": 1,
+  "buildTimestamp": "2023-10-09T00:55:03.946Z",
+  "storageFormatRevision": 6,
+  "messageProtocolRevision": 5,
+  "profileBinaryFormatRevision": 5,
+  "configParametersRevision": 5,
+  "flashUsage": 3.38,
+  "ramUsage": 5.18,
+  "firmwareFileSize": 142336,
+  "firmwareBinaryFileMD5": "f53af3fc092c3a86dd78dc5e22e92969",
+  "variationName": "rp",
+  "targetDevice": "rp2040",
+  "firmwareFileName": "keydrip7_rp.uf2"
+}

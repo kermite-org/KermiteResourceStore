@@ -1,16 +1,18 @@
 {
-  "updatedAt": "2023-03-18T09:17:37.064Z",
-  "filesRevision": 24,
+  "updatedAt": "2023-10-09T00:55:29.143Z",
+  "filesRevision": 25,
   "files": {
-    "firmwares/proto/km71a/km71a_rp.metadata.json": "bcd5923c54b4dbbcd66ebf7e556f8f2c",
-    "firmwares/proto/km71a/km71a_rp.uf2": "a758d6a1ff179129adbb18f4ec29a25a",
-    "firmwares/proto/mp2105/mp2105_rp.metadata.json": "b49b1dccb52a9ae7a5ea677dbbdc7b01",
-    "firmwares/proto/mp2105/mp2105_rp.uf2": "183af6a090d49f2c9212d686a1d486bb",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "64710f4ba1d1fe1d1280f65f3b7afacb",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "2653f7bfbe3da95bbe3542d6c303ecd3",
-    "firmwares/standard/standard_rp_split.metadata.json": "fc9c25459e3f43a1ea451b7acca2bb65",
-    "firmwares/standard/standard_rp_split.uf2": "2a7c869fecebf606b962a80f323a6507",
-    "firmwares/standard/standard_rp.metadata.json": "aada4db6fa0298e463e2b834d05ea4f0",
-    "firmwares/standard/standard_rp.uf2": "bca94dc0f51651f7c907410f6645ae0f"
+    "firmwares/proto/keydrip7/keydrip7_rp.metadata.json": "d83998fbc02d20dc2004a77bc63b454b",
+    "firmwares/proto/keydrip7/keydrip7_rp.uf2": "f53af3fc092c3a86dd78dc5e22e92969",
+    "firmwares/proto/km71a/km71a_rp.metadata.json": "cd27e32a1c51f67af3dbf84ea449217d",
+    "firmwares/proto/km71a/km71a_rp.uf2": "87392ef41986ca8c393063cbbb59032f",
+    "firmwares/proto/mp2105/mp2105_rp.metadata.json": "c419b213b9c0d9fbd36050a814056034",
+    "firmwares/proto/mp2105/mp2105_rp.uf2": "8cbd08ace49c91b820af1debd769cf70",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "0eb171b6e90f00d0ac35a55658026197",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "6c51742410569df77e4dea5e9dd315c3",
+    "firmwares/standard/standard_rp_split.metadata.json": "08b64e726e22e51526c5a983d5b7c051",
+    "firmwares/standard/standard_rp_split.uf2": "6d2e7c0acc828f710334103a17adfe2b",
+    "firmwares/standard/standard_rp.metadata.json": "e67c6e9611524f67fcb1f253e137e4cf",
+    "firmwares/standard/standard_rp.uf2": "cfe42e430eff1e8197a85f8410450340"
   }
 }

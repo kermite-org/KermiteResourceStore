@@ -1,18 +1,29 @@
 {
   "info": {
     "buildStats": {
-      "numSuccess": 5,
-      "numTotal": 5
+      "numSuccess": 6,
+      "numTotal": 6
     },
     "environment": {
-      "OS": "Ubuntu 22.04.2 LTS",
+      "OS": "Ubuntu 22.04.3 LTS",
       "make": "GNU Make 4.3",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2023-03-18T09:17:37.118Z",
-    "filesRevision": 23
+    "updateAt": "2023-10-09T00:55:29.214Z",
+    "filesRevision": 24
   },
   "firmwares": [
+    {
+      "firmwareId": "Z9G7dk",
+      "firmwareProjectPath": "proto/keydrip7",
+      "variationName": "rp",
+      "targetDevice": "rp2040",
+      "buildResult": "success",
+      "firmwareFileName": "keydrip7_rp.uf2",
+      "metadataFileName": "keydrip7_rp.metadata.json",
+      "releaseBuildRevision": 1,
+      "buildTimestamp": "2023-10-09T00:55:03.946Z"
+    },
     {
       "firmwareId": "O1lweX",
       "firmwareProjectPath": "proto/km71a",
@@ -21,8 +32,8 @@
       "buildResult": "success",
       "firmwareFileName": "km71a_rp.uf2",
       "metadataFileName": "km71a_rp.metadata.json",
-      "releaseBuildRevision": 16,
-      "buildTimestamp": "2023-03-18T09:17:23.266Z"
+      "releaseBuildRevision": 17,
+      "buildTimestamp": "2023-10-09T00:55:14.024Z"
     },
     {
       "firmwareId": "UMyy5p",
@@ -32,8 +43,8 @@
       "buildResult": "success",
       "firmwareFileName": "mp2105_rp.uf2",
       "metadataFileName": "mp2105_rp.metadata.json",
-      "releaseBuildRevision": 16,
-      "buildTimestamp": "2023-03-18T09:17:26.603Z"
+      "releaseBuildRevision": 17,
+      "buildTimestamp": "2023-10-09T00:55:17.688Z"
     },
     {
       "firmwareId": "7zabZ0",
@@ -43,8 +54,8 @@
       "buildResult": "success",
       "firmwareFileName": "sp2104_rev2_rp.uf2",
       "metadataFileName": "sp2104_rev2_rp.metadata.json",
-      "releaseBuildRevision": 10,
-      "buildTimestamp": "2023-03-18T09:17:29.638Z"
+      "releaseBuildRevision": 11,
+      "buildTimestamp": "2023-10-09T00:55:21.076Z"
     },
     {
       "firmwareId": "HCV53B",
@@ -54,8 +65,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp_split.uf2",
       "metadataFileName": "standard_rp_split.metadata.json",
-      "releaseBuildRevision": 13,
-      "buildTimestamp": "2023-03-18T09:17:33.573Z"
+      "releaseBuildRevision": 14,
+      "buildTimestamp": "2023-10-09T00:55:25.305Z"
     },
     {
       "firmwareId": "HCV52L",
@@ -65,8 +76,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp.uf2",
       "metadataFileName": "standard_rp.metadata.json",
-      "releaseBuildRevision": 17,
-      "buildTimestamp": "2023-03-18T09:17:37.049Z"
+      "releaseBuildRevision": 18,
+      "buildTimestamp": "2023-10-09T00:55:29.124Z"
     }
   ]
 }
