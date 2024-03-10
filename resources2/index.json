@@ -1,18 +1,20 @@
 {
-  "updatedAt": "2023-10-09T00:55:29.143Z",
-  "filesRevision": 25,
+  "updatedAt": "2024-03-10T08:35:15.046Z",
+  "filesRevision": 26,
   "files": {
-    "firmwares/proto/keydrip7/keydrip7_rp.metadata.json": "d83998fbc02d20dc2004a77bc63b454b",
-    "firmwares/proto/keydrip7/keydrip7_rp.uf2": "f53af3fc092c3a86dd78dc5e22e92969",
-    "firmwares/proto/km71a/km71a_rp.metadata.json": "cd27e32a1c51f67af3dbf84ea449217d",
-    "firmwares/proto/km71a/km71a_rp.uf2": "87392ef41986ca8c393063cbbb59032f",
-    "firmwares/proto/mp2105/mp2105_rp.metadata.json": "c419b213b9c0d9fbd36050a814056034",
-    "firmwares/proto/mp2105/mp2105_rp.uf2": "8cbd08ace49c91b820af1debd769cf70",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "0eb171b6e90f00d0ac35a55658026197",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "6c51742410569df77e4dea5e9dd315c3",
-    "firmwares/standard/standard_rp_split.metadata.json": "08b64e726e22e51526c5a983d5b7c051",
-    "firmwares/standard/standard_rp_split.uf2": "6d2e7c0acc828f710334103a17adfe2b",
-    "firmwares/standard/standard_rp.metadata.json": "e67c6e9611524f67fcb1f253e137e4cf",
-    "firmwares/standard/standard_rp.uf2": "cfe42e430eff1e8197a85f8410450340"
+    "firmwares/proto/astelia/astelia_rp.metadata.json": "cd649c78e8ceeafe0bfb2f9a4dd1a484",
+    "firmwares/proto/astelia/astelia_rp.uf2": "c7d1599c8fe39c4147b4bed76fc95e17",
+    "firmwares/proto/keydrip7/keydrip7_rp.metadata.json": "c143f432dda31acb2d097c4c2912fe40",
+    "firmwares/proto/keydrip7/keydrip7_rp.uf2": "833269fb93b35b4f08c2a835fe239894",
+    "firmwares/proto/km71a/km71a_rp.metadata.json": "4ee43a891dde6ce649470ae9d365937e",
+    "firmwares/proto/km71a/km71a_rp.uf2": "f7e005997d043eb2937b6148c5ea6c0e",
+    "firmwares/proto/mp2105/mp2105_rp.metadata.json": "839cfd63713669b02ae8b4c872479a10",
+    "firmwares/proto/mp2105/mp2105_rp.uf2": "c4a77ae1b7733e84f2aa92171704b39d",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "8630118255b60323ad79b32ae5a33ff7",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "1b08b51028afd38c68066bc9b6676447",
+    "firmwares/standard/standard_rp_split.metadata.json": "eaff961e11d0f240b531d0dbf4eaa493",
+    "firmwares/standard/standard_rp_split.uf2": "4a6dff51ff9d209da27e49ff3060277e",
+    "firmwares/standard/standard_rp.metadata.json": "e83dc2f8331e98922ea709bbe9750622",
+    "firmwares/standard/standard_rp.uf2": "296e085336b0a5895d5d8edf1704d25c"
   }
 }
