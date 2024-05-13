@@ -1,8 +1,8 @@
 {
   "firmwareId": "UMyy5p",
   "buildResult": "success",
-  "releaseBuildRevision": 19,
-  "buildTimestamp": "2024-05-10T11:22:37.879Z",
+  "releaseBuildRevision": 20,
+  "buildTimestamp": "2024-05-13T14:04:46.576Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 5,
   "profileBinaryFormatRevision": 5,
@@ -10,7 +10,7 @@
   "flashUsage": 3.77,
   "ramUsage": 5.69,
   "firmwareFileSize": 158208,
-  "firmwareBinaryFileMD5": "913a2ab03f2e78c6c5353bd70796fc67",
+  "firmwareBinaryFileMD5": "528ca65679e6b958c447fc4459d2d5b6",
   "variationName": "rp",
   "targetDevice": "rp2040",
   "firmwareFileName": "mp2105_rp.uf2"

@@ -9,8 +9,8 @@
       "make": "GNU Make 4.3",
       "arm-none-eabi-gcc": "arm-none-eabi-gcc 10-2020-q4-major 10.2.1 20201103"
     },
-    "updateAt": "2024-05-10T11:22:45.788Z",
-    "filesRevision": 26
+    "updateAt": "2024-05-13T14:04:54.487Z",
+    "filesRevision": 27
   },
   "firmwares": [
     {
@@ -54,8 +54,8 @@
       "buildResult": "success",
       "firmwareFileName": "mp2105_rp.uf2",
       "metadataFileName": "mp2105_rp.metadata.json",
-      "releaseBuildRevision": 19,
-      "buildTimestamp": "2024-05-10T11:22:37.879Z"
+      "releaseBuildRevision": 20,
+      "buildTimestamp": "2024-05-13T14:04:46.576Z"
     },
     {
       "firmwareId": "7zabZ0",
@@ -76,8 +76,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp_split.uf2",
       "metadataFileName": "standard_rp_split.metadata.json",
-      "releaseBuildRevision": 16,
-      "buildTimestamp": "2024-05-10T11:22:42.624Z"
+      "releaseBuildRevision": 17,
+      "buildTimestamp": "2024-05-13T14:04:51.347Z"
     },
     {
       "firmwareId": "HCV52L",
@@ -87,8 +87,8 @@
       "buildResult": "success",
       "firmwareFileName": "standard_rp.uf2",
       "metadataFileName": "standard_rp.metadata.json",
-      "releaseBuildRevision": 20,
-      "buildTimestamp": "2024-05-10T11:22:45.711Z"
+      "releaseBuildRevision": 21,
+      "buildTimestamp": "2024-05-13T14:04:54.415Z"
     }
   ]
 }
