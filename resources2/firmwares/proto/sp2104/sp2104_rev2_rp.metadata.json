@@ -1,8 +1,8 @@
 {
   "firmwareId": "7zabZ0",
   "buildResult": "success",
-  "releaseBuildRevision": 12,
-  "buildTimestamp": "2024-03-10T08:35:08.675Z",
+  "releaseBuildRevision": 13,
+  "buildTimestamp": "2024-11-23T12:20:06.791Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 5,
   "profileBinaryFormatRevision": 5,
@@ -10,7 +10,7 @@
   "flashUsage": 3.71,
   "ramUsage": 5.28,
   "firmwareFileSize": 155648,
-  "firmwareBinaryFileMD5": "1b08b51028afd38c68066bc9b6676447",
+  "firmwareBinaryFileMD5": "ea065a50bd44a20f547e726a31239d32",
   "variationName": "rev2_rp",
   "targetDevice": "rp2040",
   "firmwareFileName": "sp2104_rev2_rp.uf2"

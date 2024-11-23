@@ -1,8 +1,8 @@
 {
   "firmwareId": "9CJAA4",
   "buildResult": "success",
-  "releaseBuildRevision": 1,
-  "buildTimestamp": "2024-03-10T08:34:58.428Z",
+  "releaseBuildRevision": 2,
+  "buildTimestamp": "2024-11-23T12:19:56.181Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 5,
   "profileBinaryFormatRevision": 5,
@@ -10,7 +10,7 @@
   "flashUsage": 3.48,
   "ramUsage": 5.21,
   "firmwareFileSize": 146432,
-  "firmwareBinaryFileMD5": "c7d1599c8fe39c4147b4bed76fc95e17",
+  "firmwareBinaryFileMD5": "4f8bec421ed6debc1205c553506e33bd",
   "variationName": "rp",
   "targetDevice": "rp2040",
   "firmwareFileName": "astelia_rp.uf2"

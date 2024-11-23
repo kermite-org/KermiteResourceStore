@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2024-05-13T14:04:54.431Z",
-  "filesRevision": 28,
+  "updatedAt": "2024-11-23T12:20:13.555Z",
+  "filesRevision": 29,
   "files": {
-    "firmwares/proto/astelia/astelia_rp.metadata.json": "cd649c78e8ceeafe0bfb2f9a4dd1a484",
-    "firmwares/proto/astelia/astelia_rp.uf2": "c7d1599c8fe39c4147b4bed76fc95e17",
-    "firmwares/proto/keydrip7/keydrip7_rp.metadata.json": "c143f432dda31acb2d097c4c2912fe40",
-    "firmwares/proto/keydrip7/keydrip7_rp.uf2": "833269fb93b35b4f08c2a835fe239894",
-    "firmwares/proto/km71a/km71a_rp.metadata.json": "4ee43a891dde6ce649470ae9d365937e",
-    "firmwares/proto/km71a/km71a_rp.uf2": "f7e005997d043eb2937b6148c5ea6c0e",
-    "firmwares/proto/mp2105/mp2105_rp.metadata.json": "d597a840a5ef7c10796f33a4f7cef9bc",
-    "firmwares/proto/mp2105/mp2105_rp.uf2": "528ca65679e6b958c447fc4459d2d5b6",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "8630118255b60323ad79b32ae5a33ff7",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "1b08b51028afd38c68066bc9b6676447",
-    "firmwares/standard/standard_rp_split.metadata.json": "a0acd0bf93476030b46b205f254749a8",
-    "firmwares/standard/standard_rp_split.uf2": "872017f985b436339e4dc9b5b8f19d11",
-    "firmwares/standard/standard_rp.metadata.json": "9ced1aa678a40fd3893f3b387959d60f",
-    "firmwares/standard/standard_rp.uf2": "330f2485be81ad134307504bb3925965"
+    "firmwares/proto/astelia/astelia_rp.metadata.json": "aca848feece711354b5810653de1f90f",
+    "firmwares/proto/astelia/astelia_rp.uf2": "4f8bec421ed6debc1205c553506e33bd",
+    "firmwares/proto/keydrip7/keydrip7_rp.metadata.json": "749ed6eed572a658de3483e895fd2518",
+    "firmwares/proto/keydrip7/keydrip7_rp.uf2": "f1e96bc0c600a4212b179818fa7adfb4",
+    "firmwares/proto/km71a/km71a_rp.metadata.json": "dd351a3b8c3d1fb57bb640b5921e652a",
+    "firmwares/proto/km71a/km71a_rp.uf2": "f045d1e859ca4062d5883dbca5367b1d",
+    "firmwares/proto/mp2105/mp2105_rp.metadata.json": "2829f0346875e9e2450f908392966216",
+    "firmwares/proto/mp2105/mp2105_rp.uf2": "d32b0df41b4ec7e2a7b215e5ceb344cf",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "e79e61d4bbe3c047125de430514d199f",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "ea065a50bd44a20f547e726a31239d32",
+    "firmwares/standard/standard_rp_split.metadata.json": "5325a4e34afb57669cf8164c68d7f261",
+    "firmwares/standard/standard_rp_split.uf2": "029317c9583a4ea6474de2da6fb1ae2e",
+    "firmwares/standard/standard_rp.metadata.json": "683c6964a34983ca4b4bccd92d21a496",
+    "firmwares/standard/standard_rp.uf2": "db0384e9a1b76c50ae2b48b1d3a896a8"
   }
 }

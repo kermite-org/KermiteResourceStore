@@ -1,8 +1,8 @@
 {
   "firmwareId": "O1lweX",
   "buildResult": "success",
-  "releaseBuildRevision": 18,
-  "buildTimestamp": "2024-03-10T08:35:03.007Z",
+  "releaseBuildRevision": 19,
+  "buildTimestamp": "2024-11-23T12:20:00.997Z",
   "storageFormatRevision": 6,
   "messageProtocolRevision": 5,
   "profileBinaryFormatRevision": 5,
@@ -10,7 +10,7 @@
   "flashUsage": 3.56,
   "ramUsage": 5.23,
   "firmwareFileSize": 149504,
-  "firmwareBinaryFileMD5": "f7e005997d043eb2937b6148c5ea6c0e",
+  "firmwareBinaryFileMD5": "f045d1e859ca4062d5883dbca5367b1d",
   "variationName": "rp",
   "targetDevice": "rp2040",
   "firmwareFileName": "km71a_rp.uf2"
