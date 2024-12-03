@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2024-11-24T15:54:58.896Z",
-  "filesRevision": 30,
+  "updatedAt": "2024-12-03T03:46:05.178Z",
+  "filesRevision": 31,
   "files": {
     "firmwares/proto/astelia/astelia_rp.metadata.json": "8174df207a230e1d6d7a7936c9f96b59",
     "firmwares/proto/astelia/astelia_rp.uf2": "21223ab6e1b1f3c0f9962c9c02f26e1b",
@@ -10,10 +10,10 @@
     "firmwares/proto/km71a/km71a_rp.uf2": "f4fcd6f514b0703ea98f02d759f155c6",
     "firmwares/proto/mp2105/mp2105_rp.metadata.json": "924dd86a1047286288ebd4596f2dc83f",
     "firmwares/proto/mp2105/mp2105_rp.uf2": "c52f9131acc16121af9b84d7a4109dcf",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "6cd8fadc1c95ad37c1412c4e7922aad0",
-    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "ae2332ef87501d0ba1d92c05053c7315",
-    "firmwares/standard/standard_rp_split.metadata.json": "7814a14214f91b0175a88f0eee173f13",
-    "firmwares/standard/standard_rp_split.uf2": "a9229c0893a82eaab447b168f4caac55",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.metadata.json": "d67b4dd5c21cfae8355616e011161dfd",
+    "firmwares/proto/sp2104/sp2104_rev2_rp.uf2": "2f15ceaf40f80953c90dc48c2a47735a",
+    "firmwares/standard/standard_rp_split.metadata.json": "b061a0765817743d6ee7626981eb1e41",
+    "firmwares/standard/standard_rp_split.uf2": "add77f66724234b5cc9c65377fbfb3ac",
     "firmwares/standard/standard_rp.metadata.json": "9611423aca7f541e6a6fdd83944c88b2",
     "firmwares/standard/standard_rp.uf2": "96e1ff3cecb782ca8d609f9a4af25e3d"
   }
